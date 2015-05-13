@@ -1,0 +1,3881 @@
+Afghanistan|AFG|Badakhshan
+Afghanistan|AFG|Badghis
+Afghanistan|AFG|Baghlan
+Afghanistan|AFG|Bamian
+Afghanistan|AFG|Farah
+Afghanistan|AFG|Faryab
+Afghanistan|AFG|Ghazni
+Afghanistan|AFG|Ghowr
+Afghanistan|AFG|Helmand
+Afghanistan|AFG|Herat
+Afghanistan|AFG|Kabol
+Afghanistan|AFG|Kapisa
+Afghanistan|AFG|Konar
+Afghanistan|AFG|Laghman
+Afghanistan|AFG|Lowgar
+Afghanistan|AFG|Nimruz
+Afghanistan|AFG|Nangarhar
+Afghanistan|AFG|Paktia
+Afghanistan|AFG|Oruzgan
+Afghanistan|AFG|Kandahar
+Afghanistan|AFG|Parvan
+Afghanistan|AFG|Takhar
+Afghanistan|AFG|Kondoz
+Afghanistan|AFG|Zabol
+Afghanistan|AFG|Vardak
+Afghanistan|AFG|Balkh
+Afghanistan|AFG|Paktika
+Afghanistan|AFG|Samangan
+Afghanistan|AFG|Jowzjan
+Afghanistan|AFG|Sar-e Pol
+Albanien|ALB|Berat
+Albanien|ALB|Diber
+Albanien|ALB|Durres
+Albanien|ALB|Elbasan
+Albanien|ALB|Fier
+Albanien|ALB|Gjirokaster
+Albanien|ALB|Gramsh
+Albanien|ALB|Kolonje
+Albanien|ALB|Korce
+Albanien|ALB|Kruje
+Albanien|ALB|Kukes
+Albanien|ALB|Lezhe
+Albanien|ALB|Librazhd
+Albanien|ALB|Lushnje
+Albanien|ALB|Mat
+Albanien|ALB|Permet
+Albanien|ALB|Mirdite
+Albanien|ALB|Puke
+Albanien|ALB|Pogradec
+Albanien|ALB|Shkoder
+Albanien|ALB|Sarande
+Albanien|ALB|Tepelene
+Albanien|ALB|Skrapar
+Albanien|ALB|Vlore
+Albanien|ALB|Tropoje
+Albanien|ALB|Bulqize
+Albanien|ALB|Tirane (Region)
+Albanien|ALB|Devoll
+Albanien|ALB|Delvine
+Albanien|ALB|Kavaje
+Albanien|ALB|Has
+Albanien|ALB|Malesi e Madhe
+Albanien|ALB|Mallakaster
+Albanien|ALB|Kucove
+Albanien|ALB|Kurbin
+Albanien|ALB|Peqin
+Albanien|ALB|Tirane (Stadt)
+Algerien|DZA|Alger
+Algerien|DZA|Batna
+Algerien|DZA|Constantine
+Algerien|DZA|Medea
+Algerien|DZA|Mostaganem
+Algerien|DZA|Oran
+Algerien|DZA|Saida
+Algerien|DZA|Setif
+Algerien|DZA|Tiaret
+Algerien|DZA|Tizi Ouzou
+Algerien|DZA|Tlemcen
+Algerien|DZA|Bejaia
+Algerien|DZA|Biskra
+Algerien|DZA|Blida
+Algerien|DZA|Bouira
+Algerien|DZA|Guelma
+Algerien|DZA|Djelfa
+Algerien|DZA|Laghouat
+Algerien|DZA|Jijel
+Algerien|DZA|M'sila
+Algerien|DZA|Mascara
+Algerien|DZA|Sidi Bel Abbes
+Algerien|DZA|Oum el Bouaghi
+Algerien|DZA|Tebessa
+Algerien|DZA|Skikda
+Algerien|DZA|Ain Defla
+Algerien|DZA|Adrar
+Algerien|DZA|Annaba
+Algerien|DZA|Ain Temouchent
+Algerien|DZA|Bordj Bou Arreridj
+Algerien|DZA|Bechar
+Algerien|DZA|El Bayadh
+Algerien|DZA|El Oued
+Algerien|DZA|Boumerdes
+Algerien|DZA|Chlef
+Algerien|DZA|Illizi
+Algerien|DZA|Khenchela
+Algerien|DZA|El Tarf
+Algerien|DZA|Ghardaia
+Algerien|DZA|Ouargla
+Algerien|DZA|Relizane
+Algerien|DZA|Mila
+Algerien|DZA|Naama
+Algerien|DZA|Tindouf
+Algerien|DZA|Tipaza
+Algerien|DZA|Souk Ahras
+Algerien|DZA|Tamanghasset
+Algerien|DZA|Tissemsilt
+Amerikanisch-Samoa|ASM|Amerikanisch-Samoa
+Amerikanische Jungferninseln|VIR|Amerikanische Jungferninseln
+Andorra|AND|Canillo
+Andorra|AND|Encamp
+Andorra|AND|La Massana
+Andorra|AND|Ordino
+Andorra|AND|Sant Julia de Loria
+Andorra|AND|Andorra la Vella (Stadt)
+Andorra|AND|Escaldes-Engordany
+Angola|AGO|Benguela
+Angola|AGO|Bie
+Angola|AGO|Cabinda
+Angola|AGO|Cuando Cubango
+Angola|AGO|Cuanza Norte
+Angola|AGO|Cuanza Sul
+Angola|AGO|Cunene
+Angola|AGO|Huambo
+Angola|AGO|Huila
+Angola|AGO|Malanje
+Angola|AGO|Namibe
+Angola|AGO|Moxico
+Angola|AGO|Uige
+Angola|AGO|Zaire
+Angola|AGO|Lunda Norte
+Angola|AGO|Bengo
+Angola|AGO|Lunda Sul
+Angola|AGO|Luanda
+Anguilla|AIA|Anguilla
+Antarktis|ATA|Antarktis
+Antigua und Barbuda|ATG|Barbuda
+Antigua und Barbuda|ATG|Saint George
+Antigua und Barbuda|ATG|Saint John
+Antigua und Barbuda|ATG|Saint Mary
+Antigua und Barbuda|ATG|Saint Paul
+Antigua und Barbuda|ATG|Saint Peter
+Antigua und Barbuda|ATG|Saint Philip
+Argentinien|ARG|Buenos Aires
+Argentinien|ARG|Catamarca
+Argentinien|ARG|Chaco
+Argentinien|ARG|Chubut
+Argentinien|ARG|Cordoba
+Argentinien|ARG|Corrientes
+Argentinien|ARG|Distrito Federal
+Argentinien|ARG|Entre Rios
+Argentinien|ARG|Formosa
+Argentinien|ARG|Jujuy
+Argentinien|ARG|La Pampa
+Argentinien|ARG|La Rioja
+Argentinien|ARG|Mendoza
+Argentinien|ARG|Misiones
+Argentinien|ARG|Neuquen
+Argentinien|ARG|Salta
+Argentinien|ARG|Rio Negro
+Argentinien|ARG|San Luis
+Argentinien|ARG|San Juan
+Argentinien|ARG|Santa Fe
+Argentinien|ARG|Santa Cruz
+Argentinien|ARG|Tierra del Fuego, Antartida e Islas del Atlantico Sur
+Argentinien|ARG|Santiago del Estero
+Argentinien|ARG|Tucuman
+Armenien|ARM|Aragatsotn
+Armenien|ARM|Ararat
+Armenien|ARM|Armavir
+Armenien|ARM|Geghark’unik’
+Armenien|ARM|Kotayk’
+Armenien|ARM|Lorri
+Armenien|ARM|Shirak
+Armenien|ARM|Syunik’
+Armenien|ARM|Tavush
+Armenien|ARM|Vayots’ Dzor
+Armenien|ARM|Yerevan
+Aruba|ABW|Aruba
+Aserbeidschan|AZE|Abseron
+Aserbeidschan|AZE|Agcabadi
+Aserbeidschan|AZE|Agdam
+Aserbeidschan|AZE|Agdas
+Aserbeidschan|AZE|Agstafa
+Aserbeidschan|AZE|Agsu
+Aserbeidschan|AZE|Ali Bayramli
+Aserbeidschan|AZE|Astara
+Aserbeidschan|AZE|Baki
+Aserbeidschan|AZE|Balakan
+Aserbeidschan|AZE|Barda
+Aserbeidschan|AZE|Beylaqan
+Aserbeidschan|AZE|Bilasuvar
+Aserbeidschan|AZE|Cabrayil
+Aserbeidschan|AZE|Calilabad
+Aserbeidschan|AZE|Davaci
+Aserbeidschan|AZE|Daskasan
+Aserbeidschan|AZE|Gadabay
+Aserbeidschan|AZE|Fuzuli
+Aserbeidschan|AZE|Goranboy
+Aserbeidschan|AZE|Ganca
+Aserbeidschan|AZE|Haciqabul
+Aserbeidschan|AZE|Goycay
+Aserbeidschan|AZE|Ismayilli
+Aserbeidschan|AZE|Imisli
+Aserbeidschan|AZE|Kurdamir
+Aserbeidschan|AZE|Kalbacar
+Aserbeidschan|AZE|Lankaran
+Aserbeidschan|AZE|Lacin
+Aserbeidschan|AZE|Lerik
+Aserbeidschan|AZE|Lankaran (Stadt)
+Aserbeidschan|AZE|Naftalan
+Aserbeidschan|AZE|Naxcivan
+Aserbeidschan|AZE|Masalli
+Aserbeidschan|AZE|Mingacevir
+Aserbeidschan|AZE|Qabala
+Aserbeidschan|AZE|Qax
+Aserbeidschan|AZE|Neftcala
+Aserbeidschan|AZE|Oguz
+Aserbeidschan|AZE|Quba
+Aserbeidschan|AZE|Qubadli
+Aserbeidschan|AZE|Qazax
+Aserbeidschan|AZE|Qobustan
+Aserbeidschan|AZE|Sabirabad
+Aserbeidschan|AZE|Saki
+Aserbeidschan|AZE|Qusar
+Aserbeidschan|AZE|Saatli
+Aserbeidschan|AZE|Samkir
+Aserbeidschan|AZE|Samaxi
+Aserbeidschan|AZE|Salyan
+Aserbeidschan|AZE|Saki (Stadt)
+Aserbeidschan|AZE|Susa
+Aserbeidschan|AZE|Sumqayit
+Aserbeidschan|AZE|Siyazan
+Aserbeidschan|AZE|Samux
+Aserbeidschan|AZE|Ucar
+Aserbeidschan|AZE|Tovuz
+Aserbeidschan|AZE|Tartar
+Aserbeidschan|AZE|Susa (Stadt)
+Aserbeidschan|AZE|Xizi
+Aserbeidschan|AZE|Xanlar
+Aserbeidschan|AZE|Xankandi
+Aserbeidschan|AZE|Xacmaz
+Aserbeidschan|AZE|Yevlax (Stadt)
+Aserbeidschan|AZE|Zangilan
+Aserbeidschan|AZE|Zaqatala
+Aserbeidschan|AZE|Zardab
+Aserbeidschan|AZE|Xocali
+Aserbeidschan|AZE|Xocavand
+Aserbeidschan|AZE|Yardimli
+Aserbeidschan|AZE|Yevlax
+Australien|AUS|Australian Capital Territory
+Australien|AUS|New South Wales
+Australien|AUS|Northern Territory
+Australien|AUS|Queensland
+Australien|AUS|South Australia
+Australien|AUS|Tasmania
+Australien|AUS|Victoria
+Australien|AUS|Western Australia
+Bahamas|BHS|Bimini
+Bahamas|BHS|Cat Island
+Bahamas|BHS|Exuma
+Bahamas|BHS|Inagua
+Bahamas|BHS|Long Island
+Bahamas|BHS|Mayaguana
+Bahamas|BHS|Ragged Island
+Bahamas|BHS|Harbour Island
+Bahamas|BHS|New Providence
+Bahamas|BHS|Acklins and Crooked Islands
+Bahamas|BHS|Freeport
+Bahamas|BHS|Fresh Creek
+Bahamas|BHS|Governor's Harbour
+Bahamas|BHS|Green Turtle Cay
+Bahamas|BHS|High Rock
+Bahamas|BHS|Marsh Harbour
+Bahamas|BHS|Kemps Bay
+Bahamas|BHS|Rock Sound
+Bahamas|BHS|Nichollstown and Berry Islands
+Bahamas|BHS|San Salvador and Rum Cay
+Bahamas|BHS|Sandy Point
+Bahrain|BHR|Al Hadd
+Bahrain|BHR|Al Manamah
+Bahrain|BHR|Al Muharraq
+Bahrain|BHR|Jidd Hafs
+Bahrain|BHR|Sitrah
+Bahrain|BHR|Al Mintaqah al Gharbiyah
+Bahrain|BHR|Mintaqat Juzur Hawar
+Bahrain|BHR|Al Mintaqah ash Shamaliyah
+Bahrain|BHR|Al Mintaqah al Wusta
+Bahrain|BHR|Madinat `Isa
+Bahrain|BHR|Ar Rifa` wa al Mintaqah al Janubiyah
+Bahrain|BHR|Madinat Hamad
+Bangladesh|BGD|Chittagong
+Bangladesh|BGD|Dhaka
+Bangladesh|BGD|Khulna
+Bangladesh|BGD|Rajshahi
+Barbados|BRB|Christ Church
+Barbados|BRB|Saint Andrew
+Barbados|BRB|Saint George
+Barbados|BRB|Saint James
+Barbados|BRB|Saint John
+Barbados|BRB|Saint Joseph
+Barbados|BRB|Saint Lucy
+Barbados|BRB|Saint Michael
+Barbados|BRB|Saint Peter
+Barbados|BRB|Saint Philip
+Barbados|BRB|Saint Thomas
+Belgien|BEL|Antwerpen
+Belgien|BEL|Hainaut
+Belgien|BEL|Lüttich [Liège]
+Belgien|BEL|Limburg
+Belgien|BEL|Luxembourg
+Belgien|BEL|Namur
+Belgien|BEL|Ost-Flandern
+Belgien|BEL|West-Flandern
+Belgien|BEL|Brabant Wallonisch
+Belgien|BEL|Brüssel (Region)
+Belgien|BEL|Brabant Flämisch
+Belize|BLZ|Belize
+Belize|BLZ|Cayo
+Belize|BLZ|Corozal
+Belize|BLZ|Orange Walk
+Belize|BLZ|Stann Creek
+Belize|BLZ|Toledo
+Benin|BEN|Atakora
+Benin|BEN|Atlantique
+Benin|BEN|Borgou
+Benin|BEN|Mono
+Benin|BEN|Oueme
+Benin|BEN|Zou
+Bermuda-Inseln|BMU|Devonshire
+Bermuda-Inseln|BMU|Hamilton
+Bermuda-Inseln|BMU|Hamilton (Stadt)
+Bermuda-Inseln|BMU|Paget
+Bermuda-Inseln|BMU|Pembroke
+Bermuda-Inseln|BMU|Saint George
+Bermuda-Inseln|BMU|Saint George's
+Bermuda-Inseln|BMU|Sandys
+Bermuda-Inseln|BMU|Smiths
+Bermuda-Inseln|BMU|Southampton
+Bermuda-Inseln|BMU|Warwick
+Bhutan|BTN|Bumthang
+Bhutan|BTN|Chhukha
+Bhutan|BTN|Chirang
+Bhutan|BTN|Daga
+Bhutan|BTN|Geylegphug
+Bhutan|BTN|Ha
+Bhutan|BTN|Lhuntshi
+Bhutan|BTN|Mongar
+Bhutan|BTN|Paro
+Bhutan|BTN|Pemagatsel
+Bhutan|BTN|Punakha
+Bhutan|BTN|Samchi
+Bhutan|BTN|Samdrup
+Bhutan|BTN|Shemgang
+Bhutan|BTN|Tashigang
+Bhutan|BTN|Tongsa
+Bhutan|BTN|Thimphu
+Bhutan|BTN|Wangdi Phodrang
+Bolivien|BOL|Chuquisaca
+Bolivien|BOL|Cochabamba
+Bolivien|BOL|El Beni
+Bolivien|BOL|La Paz
+Bolivien|BOL|Oruro
+Bolivien|BOL|Pando
+Bolivien|BOL|Potosi
+Bolivien|BOL|Santa Cruz
+Bolivien|BOL|Tarija
+Bosnien-Herzegowina|BIH|Bosnien-Herzegowina
+Botsuana|BWA|Central
+Botsuana|BWA|Chobe
+Botsuana|BWA|Ghanzi
+Botsuana|BWA|Kgalagadi
+Botsuana|BWA|Kgatleng
+Botsuana|BWA|Kweneng
+Botsuana|BWA|Ngamiland
+Botsuana|BWA|North-East
+Botsuana|BWA|South-East
+Botsuana|BWA|Southern
+Brasilien|BRA|Acre
+Brasilien|BRA|Alagoas
+Brasilien|BRA|Amazonas
+Brasilien|BRA|Bahia
+Brasilien|BRA|Ceara
+Brasilien|BRA|Distrito Federal
+Brasilien|BRA|Espirito Santo
+Brasilien|BRA|Mato Grosso do Sul
+Brasilien|BRA|Maranhao
+Brasilien|BRA|Mato Grosso
+Brasilien|BRA|Minas Gerais
+Brasilien|BRA|Para
+Brasilien|BRA|Paraiba
+Brasilien|BRA|Parana
+Brasilien|BRA|Piaui
+Brasilien|BRA|Rio Grande do Norte
+Brasilien|BRA|Rio de Janeiro
+Brasilien|BRA|Rondonia
+Brasilien|BRA|Rio Grande do Sul
+Brasilien|BRA|Sao Paulo
+Brasilien|BRA|Santa Catarina
+Brasilien|BRA|Goias
+Brasilien|BRA|Sergipe
+Brasilien|BRA|Tocantins
+Brasilien|BRA|Pernambuco
+Britische Jungferninseln|VGB|Britische Jungferninseln
+Brunei|BRN|Belait
+Brunei|BRN|Brunei and Muara
+Brunei|BRN|Temburong
+Brunei|BRN|Tutong
+Bulgarien|BGR|Blagoevgrad
+Bulgarien|BGR|Burgas
+Bulgarien|BGR|Dobrich
+Bulgarien|BGR|Gabrovo
+Bulgarien|BGR|Sofia (Stadt)
+Bulgarien|BGR|Khaskovo
+Bulgarien|BGR|Kurdzhali
+Bulgarien|BGR|Kyustendil
+Bulgarien|BGR|Lovech
+Bulgarien|BGR|Montana
+Bulgarien|BGR|Pazardzhik
+Bulgarien|BGR|Pernik
+Bulgarien|BGR|Pleven [Lovec]
+Bulgarien|BGR|Plovdiv
+Bulgarien|BGR|Razgrad
+Bulgarien|BGR|Shumen
+Bulgarien|BGR|Ruse
+Bulgarien|BGR|Sliven
+Bulgarien|BGR|Silistra
+Bulgarien|BGR|Sofia (Region)
+Bulgarien|BGR|Smolyan
+Bulgarien|BGR|Turgovishte
+Bulgarien|BGR|Stara Zagora
+Bulgarien|BGR|Veliko Turnovo
+Bulgarien|BGR|Varna
+Bulgarien|BGR|Vratsa
+Bulgarien|BGR|Vidin
+Bulgarien|BGR|Yambol
+Burkina Faso|BFA|Bam
+Burkina Faso|BFA|Bazega
+Burkina Faso|BFA|Bougouriba
+Burkina Faso|BFA|Boulgou
+Burkina Faso|BFA|Boulkiemde
+Burkina Faso|BFA|Ganzourgou
+Burkina Faso|BFA|Gnagna
+Burkina Faso|BFA|Gourma
+Burkina Faso|BFA|Houe
+Burkina Faso|BFA|Kadiogo
+Burkina Faso|BFA|Kenedougou
+Burkina Faso|BFA|Komoe
+Burkina Faso|BFA|Kossi
+Burkina Faso|BFA|Kouritenga
+Burkina Faso|BFA|Mouhoun
+Burkina Faso|BFA|Naouri
+Burkina Faso|BFA|Namentenga
+Burkina Faso|BFA|Oudalan
+Burkina Faso|BFA|Oubritenga
+Burkina Faso|BFA|Poni
+Burkina Faso|BFA|Passore
+Burkina Faso|BFA|Sanmatenga
+Burkina Faso|BFA|Sanguie
+Burkina Faso|BFA|Sissili
+Burkina Faso|BFA|Seno
+Burkina Faso|BFA|Sourou
+Burkina Faso|BFA|Soum
+Burkina Faso|BFA|Yatenga
+Burkina Faso|BFA|Tapoa
+Burkina Faso|BFA|Zoundweogo
+Burundi|BDI|Bujumbura
+Burundi|BDI|Bubanza
+Burundi|BDI|Bururi
+Burundi|BDI|Cankuzo
+Burundi|BDI|Cibitoke
+Burundi|BDI|Gitega
+Burundi|BDI|Karuzi
+Burundi|BDI|Kayanza
+Burundi|BDI|Kirundo
+Burundi|BDI|Makamba
+Burundi|BDI|Muyinga
+Burundi|BDI|Ngozi
+Burundi|BDI|Rutana
+Burundi|BDI|Ruyigi
+Burundi|BDI|Muramvya
+Burundi|BDI|Mwaro
+Chile|CHL|Valparaiso
+Chile|CHL|Aisen del General Carlos Ibanez del Campo
+Chile|CHL|Antofagasta
+Chile|CHL|Araucania
+Chile|CHL|Atacama
+Chile|CHL|Bio-Bio
+Chile|CHL|Coquimbo
+Chile|CHL|Libertador General Bernardo O'Higgins
+Chile|CHL|Los Lagos
+Chile|CHL|Magallanes y de la Antartica Chilena
+Chile|CHL|Maule
+Chile|CHL|Region Metropolitana
+Chile|CHL|Tarapaca
+China|CHN|Anhui (Anhwei)
+China|CHN|Zhejiang (Chekiang)
+China|CHN|Jiangxi (Kiangsi)
+China|CHN|Jiangsu (Kiangsu)
+China|CHN|Jilin (Kirin)
+China|CHN|Qinghai (Tsinghai)
+China|CHN|Fujian (Fukien)
+China|CHN|Heilongjiang (Heilungkiang)
+China|CHN|Henan (Honan)
+China|CHN|Hebei (Hopeh)
+China|CHN|Hunan
+China|CHN|Hubei (Hupeh)
+China|CHN|Xinjiang (Sinkiang)
+China|CHN|Xizang (Tibet)
+China|CHN|Gansu (Kansu)
+China|CHN|Guizhou (Kweichow)
+China|CHN|Guangxi (Kwangsi)
+China|CHN|Nei Mongol (Inner Mongolia)
+China|CHN|Liaoning
+China|CHN|Beijing (Peking)
+China|CHN|Ningxia (Ningxia)
+China|CHN|Shanxi (Shansi)
+China|CHN|Shanghai
+China|CHN|Shaanxi (Shensi)
+China|CHN|Shandong (Shantung)
+China|CHN|Yunnan
+China|CHN|Tianjin
+China|CHN|Hainan
+China|CHN|Guangdong (Kwangtung)
+China|CHN|Chongqing
+China|CHN|Sichuan (Szechwan)
+Cookinseln|COK|Cookinseln
+Costa Rica|CRI|Alajuela
+Costa Rica|CRI|Cartago
+Costa Rica|CRI|Guanacaste
+Costa Rica|CRI|Heredia
+Costa Rica|CRI|Limon
+Costa Rica|CRI|Puntarenas
+Costa Rica|CRI|San Jose
+Dominica|DMA|Saint Andrew
+Dominica|DMA|Saint David
+Dominica|DMA|Saint George
+Dominica|DMA|Saint John
+Dominica|DMA|Saint Joseph
+Dominica|DMA|Saint Luke
+Dominica|DMA|Saint Mark
+Dominica|DMA|Saint Patrick
+Dominica|DMA|Saint Paul
+Dominica|DMA|Saint Peter
+Dominikanische Republik|DOM|Azua
+Dominikanische Republik|DOM|Baoruco
+Dominikanische Republik|DOM|Barahona
+Dominikanische Republik|DOM|Dajabon
+Dominikanische Republik|DOM|Santo Domingo [Distrito Nacional]
+Dominikanische Republik|DOM|Duarte
+Dominikanische Republik|DOM|Espaillat
+Dominikanische Republik|DOM|Independencia
+Dominikanische Republik|DOM|La Altagracia
+Dominikanische Republik|DOM|Elias Pina
+Dominikanische Republik|DOM|La Romana
+Dominikanische Republik|DOM|Maria Trinidad Sanchez
+Dominikanische Republik|DOM|Monte Cristi
+Dominikanische Republik|DOM|Pedernales
+Dominikanische Republik|DOM|Peravia
+Dominikanische Republik|DOM|Salcedo
+Dominikanische Republik|DOM|Puerto Plata
+Dominikanische Republik|DOM|Sanchez Ramirez
+Dominikanische Republik|DOM|Samana
+Dominikanische Republik|DOM|San Pedro De Macoris
+Dominikanische Republik|DOM|San Juan
+Dominikanische Republik|DOM|Santiago Rodriguez
+Dominikanische Republik|DOM|Santiago
+Dominikanische Republik|DOM|El Seibo
+Dominikanische Republik|DOM|Valverde
+Dominikanische Republik|DOM|La Vega
+Dominikanische Republik|DOM|Hato Mayor
+Dominikanische Republik|DOM|Monte Plata
+Dominikanische Republik|DOM|Monsenor Nouel
+Dominikanische Republik|DOM|San Cristobal
+Dschibuti|DJI|`Ali Sabih
+Dschibuti|DJI|Dikhil
+Dschibuti|DJI|Djibouti
+Dschibuti|DJI|Obock
+Dschibuti|DJI|Tadjoura
+Dänemark|DNK|Arhus
+Dänemark|DNK|Bornholm
+Dänemark|DNK|Frederiksborg
+Dänemark|DNK|Fünen [Fyn]
+Dänemark|DNK|Kopenhagen
+Dänemark|DNK|Kopenhagen (Stadt)
+Dänemark|DNK|Nordjütland [Nordjylland]
+Dänemark|DNK|Ribe
+Dänemark|DNK|Ringkjobing
+Dänemark|DNK|Roskilde
+Dänemark|DNK|Südjütland [Sonderjylland]
+Dänemark|DNK|Storstrom
+Dänemark|DNK|Vejle
+Dänemark|DNK|Westseeland [Vestsjalland]
+Dänemark|DNK|Viborg
+Dänemark|DNK|Frederiksberg
+Deutschland|DEU|Deutschland
+Ecuador|ECU|Galapagos
+Ecuador|ECU|Azuay
+Ecuador|ECU|Bolivar
+Ecuador|ECU|Canar
+Ecuador|ECU|Carchi
+Ecuador|ECU|Chimborazo
+Ecuador|ECU|Cotopaxi
+Ecuador|ECU|El Oro
+Ecuador|ECU|Esmeraldas
+Ecuador|ECU|Guayas
+Ecuador|ECU|Imbabura
+Ecuador|ECU|Loja
+Ecuador|ECU|Los Rios
+Ecuador|ECU|Manabi
+Ecuador|ECU|Morona-Santiago
+Ecuador|ECU|Pichincha
+Ecuador|ECU|Pastaza
+Ecuador|ECU|Zamora-Chinchipe
+Ecuador|ECU|Tungurahua
+Ecuador|ECU|Napo
+Ecuador|ECU|Sucumbios
+Ecuador|ECU|Orellana
+El Salvador|SLV|Ahuachapan
+El Salvador|SLV|Cabanas
+El Salvador|SLV|Chalatenango
+El Salvador|SLV|Cuscatlan
+El Salvador|SLV|La Libertad
+El Salvador|SLV|La Paz
+El Salvador|SLV|La Union
+El Salvador|SLV|Morazan
+El Salvador|SLV|San Miguel
+El Salvador|SLV|San Salvador
+El Salvador|SLV|Santa Ana
+El Salvador|SLV|San Vicente
+El Salvador|SLV|Sonsonate
+El Salvador|SLV|Usulutan
+Elfenbeinküste|CIV|Dabakala
+Elfenbeinküste|CIV|Adzope
+Elfenbeinküste|CIV|Agboville
+Elfenbeinküste|CIV|Biankouma
+Elfenbeinküste|CIV|Bouna
+Elfenbeinküste|CIV|Boundiali
+Elfenbeinküste|CIV|Danane
+Elfenbeinküste|CIV|Divo
+Elfenbeinküste|CIV|Ferkessedougou
+Elfenbeinküste|CIV|Gagnoa
+Elfenbeinküste|CIV|Katiola
+Elfenbeinküste|CIV|Korhogo
+Elfenbeinküste|CIV|Odienne
+Elfenbeinküste|CIV|Seguela
+Elfenbeinküste|CIV|Touba
+Elfenbeinküste|CIV|Issia
+Elfenbeinküste|CIV|Bongouanou
+Elfenbeinküste|CIV|Mankono
+Elfenbeinküste|CIV|Lakota
+Elfenbeinküste|CIV|Soubre
+Elfenbeinküste|CIV|Oume
+Elfenbeinküste|CIV|Zuenoula
+Elfenbeinküste|CIV|Tingrela
+Elfenbeinküste|CIV|Beoumi
+Elfenbeinküste|CIV|Bangolo
+Elfenbeinküste|CIV|Bouafle
+Elfenbeinküste|CIV|Bondoukou
+Elfenbeinküste|CIV|Daloa
+Elfenbeinküste|CIV|Bouake
+Elfenbeinküste|CIV|Duekoue
+Elfenbeinküste|CIV|Daoukro
+Elfenbeinküste|CIV|Mbahiakro
+Elfenbeinküste|CIV|Sakassou
+Elfenbeinküste|CIV|Grand-Lahou
+Elfenbeinküste|CIV|Man
+Elfenbeinküste|CIV|Sinfra
+Elfenbeinküste|CIV|Tabou
+Elfenbeinküste|CIV|San Pedro
+Elfenbeinküste|CIV|Sassandra
+Elfenbeinküste|CIV|Toumodi
+Elfenbeinküste|CIV|Vavoua
+Elfenbeinküste|CIV|Tanda
+Elfenbeinküste|CIV|Tiassale
+Elfenbeinküste|CIV|Abidjan
+Elfenbeinküste|CIV|Aboisso
+Elfenbeinküste|CIV|Abengourou
+Elfenbeinküste|CIV|Agnibilekrou
+Elfenbeinküste|CIV|Dabou
+Elfenbeinküste|CIV|Bocanda
+Elfenbeinküste|CIV|Alepe
+Elfenbeinküste|CIV|Adiake
+Elfenbeinküste|CIV|Jacqueville
+Elfenbeinküste|CIV|Guiglo
+Elfenbeinküste|CIV|Grand-Bassam
+Elfenbeinküste|CIV|Dimbokro
+Elfenbeinküste|CIV|Yamoussoukro
+Elfenbeinküste|CIV|Toulepleu
+Elfenbeinküste|CIV|Tiebissou
+Eritrea|ERI|Eritrea
+Estland|EST|Harjumaa
+Estland|EST|Hiiumaa
+Estland|EST|Ida-Virumaa
+Estland|EST|Jarvamaa
+Estland|EST|Jogeva
+Estland|EST|Laanemaa
+Estland|EST|Laane-Virumaa
+Estland|EST|Parnumaa
+Estland|EST|Polvamaa
+Estland|EST|Rapla
+Estland|EST|Saaremaa
+Estland|EST|Dorpat Region [Tartumaa]
+Estland|EST|Valga
+Estland|EST|Fellin Region [Viljandimaa]
+Estland|EST|Werra Region [Vorumaa]
+Falklandinseln|FLK|Falklandinseln
+Fidschi|FJI|Central
+Fidschi|FJI|Eastern
+Fidschi|FJI|Northern
+Fidschi|FJI|Rotuma
+Fidschi|FJI|Western
+Finnland|FIN|Ahvenanmaa
+Finnland|FIN|Lappland
+Finnland|FIN|Oulu
+Finnland|FIN|Westfinnland [Etela-Suomen Laani]
+Finnland|FIN|Ostfinnland [Ita-Suomen Laani]
+Finnland|FIN|Südfinnland [Lansi-Suomen Laani]
+Frankreich|FRA|Aquitaine
+Frankreich|FRA|Auvergne
+Frankreich|FRA|Normandie-Süd
+Frankreich|FRA|Burgund
+Frankreich|FRA|Bretagne
+Frankreich|FRA|Loiretal [Centre]
+Frankreich|FRA|Champagne-Ardenne
+Frankreich|FRA|Korsika
+Frankreich|FRA|Franche-Comte
+Frankreich|FRA|Normandie-Nord
+Frankreich|FRA|Paris Ile-de-France
+Frankreich|FRA|Languedoc-Roussillon
+Frankreich|FRA|Limousin
+Frankreich|FRA|Lothringen
+Frankreich|FRA|Pyrenäen [Midi-Pyrenees]
+Frankreich|FRA|Loire Atlantik [Pays de la Loire]
+Frankreich|FRA|Calais [Nord-Pas-de-Calais]
+Frankreich|FRA|Charente Atlantik [Poitou-Charentes]
+Frankreich|FRA|Picardie
+Frankreich|FRA|Rhone-Alpes
+Frankreich|FRA|Provence-Alpes-Cote d'Azur
+Frankreich|FRA|Elsass
+Französisch-Guyana|GUF|Französisch-Guyana
+Französisch-Polynesien|PYF|Französisch-Polynesien
+Färöer|FRO|Färöer
+Gabun|GAB|Estuaire
+Gabun|GAB|Haut-Ogooue
+Gabun|GAB|Moyen-Ogooue
+Gabun|GAB|Ngounie
+Gabun|GAB|Nyanga
+Gabun|GAB|Ogooue-Ivindo
+Gabun|GAB|Ogooue-Lolo
+Gabun|GAB|Ogooue-Maritime
+Gabun|GAB|Woleu-Ntem
+Gambia|GMB|Banjul
+Gambia|GMB|Lower River
+Gambia|GMB|MacCarthy Island
+Gambia|GMB|Upper River
+Gambia|GMB|Western
+Gambia|GMB|North Bank
+Georgien|GEO|Abashis Raioni
+Georgien|GEO|Abkhazia
+Georgien|GEO|Adigenis Raioni
+Georgien|GEO|Ajaria
+Georgien|GEO|Akhalgoris Raioni
+Georgien|GEO|Akhalk’alak’is Raioni
+Georgien|GEO|Akhalts’ikhis Raioni
+Georgien|GEO|Akhmetis Raioni
+Georgien|GEO|Ambrolauris Raioni
+Georgien|GEO|Aspindzis Raioni
+Georgien|GEO|Baghdat’is Raioni
+Georgien|GEO|Bolnisis Raioni
+Georgien|GEO|Borjomis Raioni
+Georgien|GEO|Chiat’ura
+Georgien|GEO|Ch’khorotsqus Raioni
+Georgien|GEO|Dedop’listsqaros Raioni
+Georgien|GEO|Ch’okhatauris Raioni
+Georgien|GEO|Dushet’is Raioni
+Georgien|GEO|Dmanisis Raioni
+Georgien|GEO|Gori
+Georgien|GEO|Gardabanis Raioni
+Georgien|GEO|Gurjaanis Raioni
+Georgien|GEO|Goris Raioni
+Georgien|GEO|K’arelis Raioni
+Georgien|GEO|Javis Raioni
+Georgien|GEO|Kharagaulis Raioni
+Georgien|GEO|Kaspis Raioni
+Georgien|GEO|Khobis Raioni
+Georgien|GEO|Khashuris Raioni
+Georgien|GEO|K’ut’aisi
+Georgien|GEO|Khonis Raioni
+Georgien|GEO|Lentekhis Raioni
+Georgien|GEO|Marneulis Raioni
+Georgien|GEO|Lagodekhis Raioni
+Georgien|GEO|Lanch’khut’is Raioni
+Georgien|GEO|Mts’khet’is Raioni
+Georgien|GEO|Ninotsmindis Raioni
+Georgien|GEO|Martvilis Raioni
+Georgien|GEO|Mestiis Raioni
+Georgien|GEO|P’ot’i
+Georgien|GEO|Qazbegis Raioni
+Georgien|GEO|Onis Raioni
+Georgien|GEO|Ozurget’is Raioni
+Georgien|GEO|Sach’kheris Raioni
+Georgien|GEO|Sagarejos Raioni
+Georgien|GEO|Qvarlis Raioni
+Georgien|GEO|Rust’avi
+Georgien|GEO|T’bilisi
+Georgien|GEO|Sighnaghis Raioni
+Georgien|GEO|Senakis Raioni
+Georgien|GEO|Samtrediis Raioni
+Georgien|GEO|T’ianet’is Raioni
+Georgien|GEO|T’et’ritsqaros Raioni
+Georgien|GEO|T’erjolis Raioni
+Georgien|GEO|T’elavis Raioni
+Georgien|GEO|Tsalkis Raioni
+Georgien|GEO|Tsalenjikhis Raioni
+Georgien|GEO|Ts’ageris Raioni
+Georgien|GEO|Tqibuli
+Georgien|GEO|Zugdidi
+Georgien|GEO|Zestap’onis Raioni
+Georgien|GEO|Vanis Raioni
+Georgien|GEO|Tsqaltubo
+Georgien|GEO|Zugdidis Raioni
+Ghana|GHA|Greater Accra
+Ghana|GHA|Ashanti
+Ghana|GHA|Brong-Ahafo
+Ghana|GHA|Central
+Ghana|GHA|Eastern
+Ghana|GHA|Northern
+Ghana|GHA|Volta
+Ghana|GHA|Western
+Ghana|GHA|Upper East
+Ghana|GHA|Upper West
+Gibraltar|GIB|Gibraltar
+Grenada|GRD|Saint Andrew
+Grenada|GRD|Saint David
+Grenada|GRD|Saint George
+Grenada|GRD|Saint John
+Grenada|GRD|Saint Mark
+Grenada|GRD|Saint Patrick
+Griechenland|GRC|Zentralgriechenland - Aitolia kai Akarnania
+Griechenland|GRC|Peloponnes - Akhaia
+Griechenland|GRC|Peloponnes - Argolis
+Griechenland|GRC|Peloponnes - Arkadien
+Griechenland|GRC|Epirus - Arta
+Griechenland|GRC|Zentralgriechenland - Attika
+Griechenland|GRC|Dodekanes
+Griechenland|GRC|Makedonien-Drama
+Griechenland|GRC|Zentralgriechenland - Evritania
+Griechenland|GRC|Thrakien - Evros
+Griechenland|GRC|Zentralgriechenland - Evvoia
+Griechenland|GRC|Makedonien - Florina
+Griechenland|GRC|Zentralgriechenland - Fokis
+Griechenland|GRC|Zentralgriechenland - Fthiotis
+Griechenland|GRC|Makedonien - Grevena
+Griechenland|GRC|Peloponnes - Ilia
+Griechenland|GRC|Kreta - Iraklion
+Griechenland|GRC|Epirus - Ioannina
+Griechenland|GRC|Makedonien - Imathia
+Griechenland|GRC|Makedonien - Kastoria
+Griechenland|GRC|Thessalien - Kardhitsa
+Griechenland|GRC|Ionische Inseln - Kefallinia
+Griechenland|GRC|Makedonien - Kavala
+Griechenland|GRC|Khalkidhiki
+Griechenland|GRC|Ionische Inseln - Korfu
+Griechenland|GRC|Nord-Agäis - Kos
+Griechenland|GRC|Kreta - Khania
+Griechenland|GRC|Peloponnes - Korinth
+Griechenland|GRC|Makedonien - Kilkis
+Griechenland|GRC|Kykladen
+Griechenland|GRC|Makedonien - Kozani
+Griechenland|GRC|Kreta - Lasithi
+Griechenland|GRC|Nord-Agäis - Lesbos
+Griechenland|GRC|Peloponnes - Lakonien
+Griechenland|GRC|Thessalien - Larisa
+Griechenland|GRC|Makedonien - Pella
+Griechenland|GRC|Makedonien - Pieria
+Griechenland|GRC|Ionische Inseln - Levkas
+Griechenland|GRC|Peloponnes - Messenien
+Griechenland|GRC|Kreta - Rethimni
+Griechenland|GRC|Thrakien - Rodhopi
+Griechenland|GRC|Thessalien - Magnisia
+Griechenland|GRC|Epirus - Preveza
+Griechenland|GRC|Epirus - Thesprotia
+Griechenland|GRC|Makedonien - Thessaloniki
+Griechenland|GRC|Nord-Agäis - Samos
+Griechenland|GRC|Makedonien - Serrai
+Griechenland|GRC|Ionische Inseln - Zakinthos
+Griechenland|GRC|Thrakien - Xanthi
+Griechenland|GRC|Zentralgriechenland - Voiotia
+Griechenland|GRC|Thessalien - Trikala
+Griechenland|GRC|Nord-Agäis
+Griechenland|GRC|Athen
+Großbritannien und Nordirland|GBR|Avon
+Großbritannien und Nordirland|GBR|Berkshire
+Großbritannien und Nordirland|GBR|Cleveland
+Großbritannien und Nordirland|GBR|Greater London (Region)
+Großbritannien und Nordirland|GBR|Greater Manchester (Region)
+Großbritannien und Nordirland|GBR|Hereford and Worcester
+Großbritannien und Nordirland|GBR|Humberside
+Großbritannien und Nordirland|GBR|Merseyside
+Großbritannien und Nordirland|GBR|South Yorkshire
+Großbritannien und Nordirland|GBR|Tyne and Wear
+Großbritannien und Nordirland|GBR|West Midlands
+Großbritannien und Nordirland|GBR|West Yorkshire
+Großbritannien und Nordirland|GBR|Central
+Großbritannien und Nordirland|GBR|Grampian
+Großbritannien und Nordirland|GBR|Lothian
+Großbritannien und Nordirland|GBR|Tayside
+Großbritannien und Nordirland|GBR|Strathclyde
+Großbritannien und Nordirland|GBR|Barnet
+Großbritannien und Nordirland|GBR|Barking and Dagenham
+Großbritannien und Nordirland|GBR|Bath and North East Somerset
+Großbritannien und Nordirland|GBR|Barnsley
+Großbritannien und Nordirland|GBR|Bexley
+Großbritannien und Nordirland|GBR|Bedfordshire
+Großbritannien und Nordirland|GBR|Blackburn with Darwen
+Großbritannien und Nordirland|GBR|Birmingham
+Großbritannien und Nordirland|GBR|Bolton
+Großbritannien und Nordirland|GBR|Blackpool
+Großbritannien und Nordirland|GBR|Bracknell Forest
+Großbritannien und Nordirland|GBR|Bournemouth
+Großbritannien und Nordirland|GBR|Brent
+Großbritannien und Nordirland|GBR|Bradford
+Großbritannien und Nordirland|GBR|Bromley
+Großbritannien und Nordirland|GBR|Buckinghamshire
+Großbritannien und Nordirland|GBR|Brighton and Hove
+Großbritannien und Nordirland|GBR|Bristol (Stadt)
+Großbritannien und Nordirland|GBR|Cambridgeshire
+Großbritannien und Nordirland|GBR|Camden
+Großbritannien und Nordirland|GBR|Bury
+Großbritannien und Nordirland|GBR|Calderdale
+Großbritannien und Nordirland|GBR|Coventry
+Großbritannien und Nordirland|GBR|Croydon
+Großbritannien und Nordirland|GBR|Cheshire
+Großbritannien und Nordirland|GBR|Cornwall
+Großbritannien und Nordirland|GBR|Derby
+Großbritannien und Nordirland|GBR|Derbyshire
+Großbritannien und Nordirland|GBR|Cumbria
+Großbritannien und Nordirland|GBR|Darlington
+Großbritannien und Nordirland|GBR|Dudley
+Großbritannien und Nordirland|GBR|Dorset
+Großbritannien und Nordirland|GBR|Doncaster
+Großbritannien und Nordirland|GBR|Devon
+Großbritannien und Nordirland|GBR|East Sussex
+Großbritannien und Nordirland|GBR|East Riding of Yorkshire
+Großbritannien und Nordirland|GBR|Ealing
+Großbritannien und Nordirland|GBR|Durham
+Großbritannien und Nordirland|GBR|Gloucestershire
+Großbritannien und Nordirland|GBR|Gateshead
+Großbritannien und Nordirland|GBR|Essex
+Großbritannien und Nordirland|GBR|Enfield
+Großbritannien und Nordirland|GBR|Hammersmith and Fulham
+Großbritannien und Nordirland|GBR|Halton
+Großbritannien und Nordirland|GBR|Hackney
+Großbritannien und Nordirland|GBR|Greenwich
+Großbritannien und Nordirland|GBR|Havering
+Großbritannien und Nordirland|GBR|Herefordshire
+Großbritannien und Nordirland|GBR|Hertfordshire
+Großbritannien und Nordirland|GBR|Hillingdon
+Großbritannien und Nordirland|GBR|Hampshire
+Großbritannien und Nordirland|GBR|Haringey
+Großbritannien und Nordirland|GBR|Harrow
+Großbritannien und Nordirland|GBR|Hartlepool
+Großbritannien und Nordirland|GBR|Kent
+Großbritannien und Nordirland|GBR|Kingston upon Hull, City of
+Großbritannien und Nordirland|GBR|Kingston upon Thames
+Großbritannien und Nordirland|GBR|Kirklees
+Großbritannien und Nordirland|GBR|Hounslow
+Großbritannien und Nordirland|GBR|Isle of Wight
+Großbritannien und Nordirland|GBR|Islington
+Großbritannien und Nordirland|GBR|Kensington and Chelsea
+Großbritannien und Nordirland|GBR|Leicestershire
+Großbritannien und Nordirland|GBR|Leicester
+Großbritannien und Nordirland|GBR|Lincolnshire
+Großbritannien und Nordirland|GBR|Lewisham
+Großbritannien und Nordirland|GBR|Lambeth
+Großbritannien und Nordirland|GBR|Knowsley
+Großbritannien und Nordirland|GBR|Leeds
+Großbritannien und Nordirland|GBR|Lancashire
+Großbritannien und Nordirland|GBR|Merton
+Großbritannien und Nordirland|GBR|Medway
+Großbritannien und Nordirland|GBR|Milton Keynes
+Großbritannien und Nordirland|GBR|Middlesbrough
+Großbritannien und Nordirland|GBR|London (Stadt)
+Großbritannien und Nordirland|GBR|Liverpool
+Großbritannien und Nordirland|GBR|Manchester
+Großbritannien und Nordirland|GBR|Luton
+Großbritannien und Nordirland|GBR|North Somerset
+Großbritannien und Nordirland|GBR|North Tyneside
+Großbritannien und Nordirland|GBR|North East Lincolnshire
+Großbritannien und Nordirland|GBR|North Lincolnshire
+Großbritannien und Nordirland|GBR|Norfolk
+Großbritannien und Nordirland|GBR|Northamptonshire
+Großbritannien und Nordirland|GBR|Newcastle upon Tyne
+Großbritannien und Nordirland|GBR|Newham
+Großbritannien und Nordirland|GBR|Peterborough
+Großbritannien und Nordirland|GBR|Plymouth
+Großbritannien und Nordirland|GBR|Oldham
+Großbritannien und Nordirland|GBR|Oxfordshire
+Großbritannien und Nordirland|GBR|Nottingham
+Großbritannien und Nordirland|GBR|Nottinghamshire
+Großbritannien und Nordirland|GBR|Northumberland
+Großbritannien und Nordirland|GBR|North Yorkshire
+Großbritannien und Nordirland|GBR|Rotherham
+Großbritannien und Nordirland|GBR|Rochdale
+Großbritannien und Nordirland|GBR|Richmond upon Thames
+Großbritannien und Nordirland|GBR|Redcar and Cleveland
+Großbritannien und Nordirland|GBR|Redbridge
+Großbritannien und Nordirland|GBR|Reading
+Großbritannien und Nordirland|GBR|Portsmouth
+Großbritannien und Nordirland|GBR|Poole
+Großbritannien und Nordirland|GBR|Solihull
+Großbritannien und Nordirland|GBR|Slough
+Großbritannien und Nordirland|GBR|Sheffield
+Großbritannien und Nordirland|GBR|Sefton
+Großbritannien und Nordirland|GBR|Sandwell
+Großbritannien und Nordirland|GBR|Shropshire
+Großbritannien und Nordirland|GBR|Salford
+Großbritannien und Nordirland|GBR|Rutland
+Großbritannien und Nordirland|GBR|Stockton-on-Tees
+Großbritannien und Nordirland|GBR|Stockport
+Großbritannien und Nordirland|GBR|Suffolk
+Großbritannien und Nordirland|GBR|Stoke-on-Trent
+Großbritannien und Nordirland|GBR|Surrey
+Großbritannien und Nordirland|GBR|Sunderland
+Großbritannien und Nordirland|GBR|Swindon
+Großbritannien und Nordirland|GBR|Sutton
+Großbritannien und Nordirland|GBR|Southampton
+Großbritannien und Nordirland|GBR|Somerset
+Großbritannien und Nordirland|GBR|South Gloucestershire
+Großbritannien und Nordirland|GBR|Southend-on-Sea
+Großbritannien und Nordirland|GBR|Southwark
+Großbritannien und Nordirland|GBR|South Tyneside
+Großbritannien und Nordirland|GBR|St. Helens
+Großbritannien und Nordirland|GBR|Staffordshire
+Großbritannien und Nordirland|GBR|Waltham Forest
+Großbritannien und Nordirland|GBR|Wandsworth
+Großbritannien und Nordirland|GBR|Warrington
+Großbritannien und Nordirland|GBR|Warwickshire
+Großbritannien und Nordirland|GBR|West Berkshire
+Großbritannien und Nordirland|GBR|Westminster
+Großbritannien und Nordirland|GBR|West Sussex
+Großbritannien und Nordirland|GBR|Wigan
+Großbritannien und Nordirland|GBR|Tameside
+Großbritannien und Nordirland|GBR|Telford and Wrekin
+Großbritannien und Nordirland|GBR|Thurrock
+Großbritannien und Nordirland|GBR|Torbay
+Großbritannien und Nordirland|GBR|Tower Hamlets
+Großbritannien und Nordirland|GBR|Trafford
+Großbritannien und Nordirland|GBR|Wakefield
+Großbritannien und Nordirland|GBR|Walsall
+Großbritannien und Nordirland|GBR|Ballymoney
+Großbritannien und Nordirland|GBR|Ballymena
+Großbritannien und Nordirland|GBR|Armagh
+Großbritannien und Nordirland|GBR|Ards
+Großbritannien und Nordirland|GBR|Castlereagh
+Großbritannien und Nordirland|GBR|Carrickfergus
+Großbritannien und Nordirland|GBR|Belfast
+Großbritannien und Nordirland|GBR|Banbridge
+Großbritannien und Nordirland|GBR|Wokingham
+Großbritannien und Nordirland|GBR|Wirral
+Großbritannien und Nordirland|GBR|Windsor and Maidenhead
+Großbritannien und Nordirland|GBR|Wiltshire
+Großbritannien und Nordirland|GBR|Antrim
+Großbritannien und Nordirland|GBR|York
+Großbritannien und Nordirland|GBR|Worcestershire
+Großbritannien und Nordirland|GBR|Wolverhampton
+Großbritannien und Nordirland|GBR|Magherafelt
+Großbritannien und Nordirland|GBR|Moyle
+Großbritannien und Nordirland|GBR|Lisburn
+Großbritannien und Nordirland|GBR|Derry
+Großbritannien und Nordirland|GBR|North Down
+Großbritannien und Nordirland|GBR|Omagh
+Großbritannien und Nordirland|GBR|Newry and Mourne
+Großbritannien und Nordirland|GBR|Newtownabbey
+Großbritannien und Nordirland|GBR|Craigavon
+Großbritannien und Nordirland|GBR|Down
+Großbritannien und Nordirland|GBR|Coleraine
+Großbritannien und Nordirland|GBR|Cookstown
+Großbritannien und Nordirland|GBR|Larne
+Großbritannien und Nordirland|GBR|Limavady
+Großbritannien und Nordirland|GBR|Dungannon
+Großbritannien und Nordirland|GBR|Fermanagh
+Großbritannien und Nordirland|GBR|Edinburgh (Stadt)
+Großbritannien und Nordirland|GBR|East Renfrewshire
+Großbritannien und Nordirland|GBR|Fife
+Großbritannien und Nordirland|GBR|Falkirk
+Großbritannien und Nordirland|GBR|East Ayrshire
+Großbritannien und Nordirland|GBR|Dundee (Stadt)
+Großbritannien und Nordirland|GBR|East Lothian
+Großbritannien und Nordirland|GBR|East Dunbartonshire
+Großbritannien und Nordirland|GBR|The Scottish Borders
+Großbritannien und Nordirland|GBR|Argyll and Bute
+Großbritannien und Nordirland|GBR|Dumfries and Galloway
+Großbritannien und Nordirland|GBR|Clackmannanshire
+Großbritannien und Nordirland|GBR|Aberdeen (Stadt)
+Großbritannien und Nordirland|GBR|Strabane
+Großbritannien und Nordirland|GBR|Angus
+Großbritannien und Nordirland|GBR|Aberdeenshire
+Großbritannien und Nordirland|GBR|South Lanarkshire
+Großbritannien und Nordirland|GBR|Stirling
+Großbritannien und Nordirland|GBR|West Dunbartonshire
+Großbritannien und Nordirland|GBR|Eilean Siar
+Großbritannien und Nordirland|GBR|Perth and Kinross
+Großbritannien und Nordirland|GBR|Renfrewshire
+Großbritannien und Nordirland|GBR|Shetland Islands
+Großbritannien und Nordirland|GBR|South Ayrshire
+Großbritannien und Nordirland|GBR|Moray
+Großbritannien und Nordirland|GBR|North Ayrshire
+Großbritannien und Nordirland|GBR|North Lanarkshire
+Großbritannien und Nordirland|GBR|Orkney
+Großbritannien und Nordirland|GBR|Glasgow (Stadt)
+Großbritannien und Nordirland|GBR|Highland
+Großbritannien und Nordirland|GBR|Inverclyde
+Großbritannien und Nordirland|GBR|Midlothian
+Großbritannien und Nordirland|GBR|Newport
+Großbritannien und Nordirland|GBR|Neath Port Talbot
+Großbritannien und Nordirland|GBR|Monmouthshire
+Großbritannien und Nordirland|GBR|Merthyr Tydfil
+Großbritannien und Nordirland|GBR|Gwynedd
+Großbritannien und Nordirland|GBR|Flintshire
+Großbritannien und Nordirland|GBR|Denbighshire
+Großbritannien und Nordirland|GBR|Conwy
+Großbritannien und Nordirland|GBR|Carmarthenshire
+Großbritannien und Nordirland|GBR|Ceredigion
+Großbritannien und Nordirland|GBR|Cardiff
+Großbritannien und Nordirland|GBR|Caerphilly
+Großbritannien und Nordirland|GBR|Bridgend
+Großbritannien und Nordirland|GBR|Blaenau Gwent
+Großbritannien und Nordirland|GBR|Isle of Anglesey
+Großbritannien und Nordirland|GBR|West Lothian
+Großbritannien und Nordirland|GBR|Wrexham
+Großbritannien und Nordirland|GBR|Kanalinseln
+Großbritannien und Nordirland|GBR|Torfaen
+Großbritannien und Nordirland|GBR|Vale of Glamorgan, The
+Großbritannien und Nordirland|GBR|Rhondda Cynon Taff
+Großbritannien und Nordirland|GBR|Swansea
+Großbritannien und Nordirland|GBR|Pembrokeshire
+Großbritannien und Nordirland|GBR|Powys
+Grönland|GRL|Nordgronland
+Grönland|GRL|Ostgronland
+Grönland|GRL|Vestgronland
+Guadeloupe|GLP|Guadeloupe
+Guam|GUM|Guam
+Guatemala|GTM|Alta Verapaz
+Guatemala|GTM|Baja Verapaz
+Guatemala|GTM|Chimaltenango
+Guatemala|GTM|Chiquimula
+Guatemala|GTM|El Progreso
+Guatemala|GTM|Escuintla
+Guatemala|GTM|Guatemala
+Guatemala|GTM|Huehuetenango
+Guatemala|GTM|Izabal
+Guatemala|GTM|Jalapa
+Guatemala|GTM|Jutiapa
+Guatemala|GTM|Peten
+Guatemala|GTM|Quetzaltenango
+Guatemala|GTM|Quiche
+Guatemala|GTM|Retalhuleu
+Guatemala|GTM|San Marcos
+Guatemala|GTM|Sacatepequez
+Guatemala|GTM|Solola
+Guatemala|GTM|Santa Rosa
+Guatemala|GTM|Totonicapan
+Guatemala|GTM|Suchitepequez
+Guatemala|GTM|Zacapa
+Guinea|GIN|Beyla
+Guinea|GIN|Boffa
+Guinea|GIN|Boke
+Guinea|GIN|Conakry
+Guinea|GIN|Dabola
+Guinea|GIN|Dalaba
+Guinea|GIN|Dinguiraye
+Guinea|GIN|Faranah
+Guinea|GIN|Forecariah
+Guinea|GIN|Fria
+Guinea|GIN|Gaoual
+Guinea|GIN|Gueckedou
+Guinea|GIN|Kerouane
+Guinea|GIN|Kindia
+Guinea|GIN|Kissidougou
+Guinea|GIN|Kouroussa
+Guinea|GIN|Koundara
+Guinea|GIN|Mali
+Guinea|GIN|Macenta
+Guinea|GIN|Pita
+Guinea|GIN|Mamou
+Guinea|GIN|Tougue
+Guinea|GIN|Telimele
+Guinea|GIN|Coyah
+Guinea|GIN|Yomou
+Guinea|GIN|Kankan
+Guinea|GIN|Dubreka
+Guinea|GIN|Labe
+Guinea|GIN|Koubia
+Guinea|GIN|Lola
+Guinea|GIN|Lelouma
+Guinea|GIN|Siguiri
+Guinea|GIN|Mandiana
+Guinea|GIN|Nzerekore
+Guinea-Bissau|GNB|Bafata
+Guinea-Bissau|GNB|Quinara
+Guinea-Bissau|GNB|Oio
+Guinea-Bissau|GNB|Bolama
+Guinea-Bissau|GNB|Cacheu
+Guinea-Bissau|GNB|Tombali
+Guinea-Bissau|GNB|Gabu
+Guinea-Bissau|GNB|Bissau
+Guinea-Bissau|GNB|Biombo
+Guyana|GUY|Barima-Waini
+Guyana|GUY|Cuyuni-Mazaruni
+Guyana|GUY|Demerara-Mahaica
+Guyana|GUY|East Berbice-Corentyne
+Guyana|GUY|Essequibo Islands-West Demerara
+Guyana|GUY|Mahaica-Berbice
+Guyana|GUY|Pomeroon-Supenaam
+Guyana|GUY|Potaro-Siparuni
+Guyana|GUY|Upper Demerara-Berbice
+Guyana|GUY|Upper Takutu-Upper Essequibo
+Haiti|HTI|Nord-Ouest
+Haiti|HTI|Artibonite
+Haiti|HTI|Centre
+Haiti|HTI|Grand' Anse
+Haiti|HTI|Nord
+Haiti|HTI|Nord-Est
+Haiti|HTI|Ouest
+Haiti|HTI|Sud
+Haiti|HTI|Sud-Est
+Heard-, MacDonald-Inseln|HMD|Heard-, MacDonald-Inseln
+Honduras|HND|Atlantida
+Honduras|HND|Choluteca
+Honduras|HND|Colon
+Honduras|HND|Comayagua
+Honduras|HND|Copan
+Honduras|HND|Cortes
+Honduras|HND|El Paraiso
+Honduras|HND|Francisco Morazan
+Honduras|HND|Gracias a Dios
+Honduras|HND|Intibuca
+Honduras|HND|Islas de la Bahia
+Honduras|HND|La Paz
+Honduras|HND|Lempira
+Honduras|HND|Ocotepeque
+Honduras|HND|Olancho
+Honduras|HND|Valle
+Honduras|HND|Santa Barbara
+Honduras|HND|Yoro
+Hongkong|HKG|Hongkong
+Indien|IND|Andaman and Nicobar Islands
+Indien|IND|Andhra Pradesh
+Indien|IND|Assam
+Indien|IND|Chandigarh
+Indien|IND|Dadra and Nagar Haveli
+Indien|IND|Delhi
+Indien|IND|Gujarat
+Indien|IND|Haryana
+Indien|IND|Himachal Pradesh
+Indien|IND|Jammu and Kashmir
+Indien|IND|Kerala
+Indien|IND|Lakshadweep (Laccadive, Minacoy, and Amindivi Islands)
+Indien|IND|Maharashtra
+Indien|IND|Manipur
+Indien|IND|Meghalaya
+Indien|IND|Nagaland
+Indien|IND|Karnataka
+Indien|IND|Pondicherry
+Indien|IND|Orissa
+Indien|IND|Rajasthan
+Indien|IND|Punjab
+Indien|IND|Tripura
+Indien|IND|Tamil Nadu (Madras)
+Indien|IND|Sikkim
+Indien|IND|West Bengal
+Indien|IND|Mizoram
+Indien|IND|Arunachal Pradesh
+Indien|IND|Goa
+Indien|IND|Daman and Diu
+Indien|IND|Madhya Pradesh
+Indien|IND|Bihar
+Indien|IND|Jharkhand
+Indien|IND|Uttaranchal
+Indien|IND|Uttar Pradesh
+Indien|IND|Chhattisgarh
+Indonesien|IDN|Aceh (Atjeh)
+Indonesien|IDN|Bali
+Indonesien|IDN|Bengkulu
+Indonesien|IDN|Jakarta Raya (Djakarta Raya)
+Indonesien|IDN|Jambi (Djambi)
+Indonesien|IDN|Jawa Tengah (Djawa Tengah)
+Indonesien|IDN|Jawa Timur (Djawa Timur)
+Indonesien|IDN|Irian Jaya
+Indonesien|IDN|Yogyakarta (Jogjakarta)
+Indonesien|IDN|Kalimantan Barat
+Indonesien|IDN|Kalimantan Selatan
+Indonesien|IDN|Kalimantan Tengah
+Indonesien|IDN|Kalimantan Timur
+Indonesien|IDN|Lampung
+Indonesien|IDN|Nusa Tenggara Barat
+Indonesien|IDN|Riau
+Indonesien|IDN|Nusa Tenggara Timur
+Indonesien|IDN|Sulawesi Tengah
+Indonesien|IDN|Sulawesi Selatan
+Indonesien|IDN|Sumatera Barat
+Indonesien|IDN|Sulawesi Tenggara
+Indonesien|IDN|Maluku
+Indonesien|IDN|Sumatera Utara
+Indonesien|IDN|Jawa Barat (Djawa Barat)
+Indonesien|IDN|Maluku Utara
+Indonesien|IDN|Sumatera Selatan
+Indonesien|IDN|Sulawesi Utara
+Indonesien|IDN|Gorontalo
+Indonesien|IDN|Banten
+Indonesien|IDN|Kepulauan Bangka Belitung
+Insel Man|IMN|Insel Man
+Irak|IRQ|Al Anbar
+Irak|IRQ|Al Basrah
+Irak|IRQ|Al Muthanna
+Irak|IRQ|Al Qadisiyah
+Irak|IRQ|As Sulaymaniyah
+Irak|IRQ|Babil
+Irak|IRQ|Baghdad
+Irak|IRQ|Dahuk
+Irak|IRQ|Dhi Qar
+Irak|IRQ|Diyala
+Irak|IRQ|Arbil
+Irak|IRQ|Karbala'
+Irak|IRQ|At Ta'mim (Kirkuk)
+Irak|IRQ|Maysan
+Irak|IRQ|Ninawa
+Irak|IRQ|An Najaf
+Irak|IRQ|Wasit
+Irak|IRQ|Salah ad Din
+Iran|IRN|Azarbayjan-e Gharbi
+Iran|IRN|Azarbayjan-e Sharqi
+Iran|IRN|Chahar Mahall va Bakhtiari
+Iran|IRN|Sistan va Baluchestan
+Iran|IRN|Kohgiluyeh va Buyer Ahmad
+Iran|IRN|Fars
+Iran|IRN|Gilan
+Iran|IRN|Hamadan
+Iran|IRN|Ilam
+Iran|IRN|Hormozgan
+Iran|IRN|Kermanshah
+Iran|IRN|Khuzestan
+Iran|IRN|Kordestan
+Iran|IRN|Bushehr
+Iran|IRN|Lorestan
+Iran|IRN|Tehran
+Iran|IRN|Semnan
+Iran|IRN|Kerman
+Iran|IRN|Esfahan
+Iran|IRN|Yazd
+Iran|IRN|Khorasan
+Iran|IRN|Markazi
+Iran|IRN|Ardabil
+Iran|IRN|Zanjan
+Iran|IRN|Mazandaran
+Iran|IRN|Qazvin
+Iran|IRN|Golestan
+Iran|IRN|Qom
+Irland|IRL|Carlow
+Irland|IRL|Cavan
+Irland|IRL|Clare
+Irland|IRL|Cork
+Irland|IRL|Donegal
+Irland|IRL|Dublin
+Irland|IRL|Galway
+Irland|IRL|Kerry
+Irland|IRL|Kildare
+Irland|IRL|Kilkenny
+Irland|IRL|Leitrim
+Irland|IRL|Laois
+Irland|IRL|Limerick
+Irland|IRL|Longford
+Irland|IRL|Louth
+Irland|IRL|Meath
+Irland|IRL|Mayo
+Irland|IRL|Offaly
+Irland|IRL|Monaghan
+Irland|IRL|Sligo
+Irland|IRL|Roscommon
+Irland|IRL|Waterford
+Irland|IRL|Tipperary
+Irland|IRL|Wexford
+Irland|IRL|Westmeath
+Irland|IRL|Wicklow
+Island|ISL|Akranes
+Island|ISL|Akureyri
+Island|ISL|Arnessysla
+Island|ISL|Austur-Bardastrandarsysla
+Island|ISL|Austur-Hunavatnssysla
+Island|ISL|Austur-Skaftafellssysla
+Island|ISL|Borgarfjardarsysla
+Island|ISL|Dalasysla
+Island|ISL|Eyjafjardarsysla
+Island|ISL|Gullbringusysla
+Island|ISL|Hafnarfjordur
+Island|ISL|Husavik
+Island|ISL|Isafjordur
+Island|ISL|Keflavik
+Island|ISL|Kjosarsysla
+Island|ISL|Myrasysla
+Island|ISL|Kopavogur
+Island|ISL|Nordur-Isafjardarsysla
+Island|ISL|Neskaupstadur
+Island|ISL|Nordur-Tingeyjarsysla
+Island|ISL|Nordur-Mulasysla
+Island|ISL|Rangarvallasysla
+Island|ISL|Olafsfjordur
+Island|ISL|Saudarkrokur
+Island|ISL|Reykjavik (Stadt)
+Island|ISL|Siglufjordur
+Island|ISL|Seydisfjordur
+Island|ISL|Snafellsnes- og Hnappadalssysla
+Island|ISL|Skagafjardarsysla
+Island|ISL|Sudur-Mulasysla
+Island|ISL|Strandasysla
+Island|ISL|Vestur-Bardastrandarsysla
+Island|ISL|Vestur-Hunavatnssysla
+Island|ISL|Sudur-Tingeyjarsysla
+Island|ISL|Westmanner Insel [Vestmannaeyjar]
+Island|ISL|Vestur-Isafjardarsysla
+Island|ISL|Vestur-Skaftafellssysla
+Israel|ISR|HaDarom (Southern)
+Israel|ISR|HaMerkaz (Central)
+Israel|ISR|HaZafon (Northern)
+Israel|ISR|Hefa (Haifa)
+Israel|ISR|Tel Aviv
+Israel|ISR|Yerushalayim (Jerusalem)
+Italien|ITA|Abruzzen
+Italien|ITA|Basilicata
+Italien|ITA|Kalabrien
+Italien|ITA|Kampanien
+Italien|ITA|Emilia-Romagna
+Italien|ITA|Venetien-Friaul-Julisch
+Italien|ITA|Latium
+Italien|ITA|Ligurien
+Italien|ITA|Lombardei
+Italien|ITA|Marken
+Italien|ITA|Molise
+Italien|ITA|Piemonte
+Italien|ITA|Apulien
+Italien|ITA|Sardinien
+Italien|ITA|Sizilien
+Italien|ITA|Südtirol [Trentino-Alto Adige]
+Italien|ITA|Toscana
+Italien|ITA|Aostatal [Valle d'Aosta]
+Italien|ITA|Umbrien
+Italien|ITA|Gardasee
+Italien|ITA|Veneto
+Jamaika|JAM|Clarendon
+Jamaika|JAM|Hanover
+Jamaika|JAM|Manchester
+Jamaika|JAM|Portland
+Jamaika|JAM|Saint Andrew
+Jamaika|JAM|Saint Ann
+Jamaika|JAM|Saint Catherine
+Jamaika|JAM|Saint Elizabeth
+Jamaika|JAM|Saint James
+Jamaika|JAM|Saint Mary
+Jamaika|JAM|Saint Thomas
+Jamaika|JAM|Trelawny
+Jamaika|JAM|Westmoreland
+Jamaika|JAM|Kingston
+Japan|JPN|Aichi
+Japan|JPN|Akita
+Japan|JPN|Aomori
+Japan|JPN|Chiba
+Japan|JPN|Ehime
+Japan|JPN|Fukui
+Japan|JPN|Fukuoka
+Japan|JPN|Fukushima
+Japan|JPN|Gifu
+Japan|JPN|Gumma
+Japan|JPN|Hiroshima
+Japan|JPN|Hokkaido
+Japan|JPN|Hyogo
+Japan|JPN|Ibaraki
+Japan|JPN|Ishikawa
+Japan|JPN|Kagawa
+Japan|JPN|Iwate
+Japan|JPN|Kanagawa
+Japan|JPN|Kagoshima
+Japan|JPN|Kumamoto
+Japan|JPN|Kochi
+Japan|JPN|Mie
+Japan|JPN|Kyoto
+Japan|JPN|Miyazaki
+Japan|JPN|Miyagi
+Japan|JPN|Nagasaki
+Japan|JPN|Nagano
+Japan|JPN|Niigata
+Japan|JPN|Nara
+Japan|JPN|Okayama
+Japan|JPN|Oita
+Japan|JPN|Saitama
+Japan|JPN|Shiga
+Japan|JPN|Osaka
+Japan|JPN|Saga
+Japan|JPN|Tochigi
+Japan|JPN|Tokushima
+Japan|JPN|Shimane
+Japan|JPN|Shizuoka
+Japan|JPN|Toyama
+Japan|JPN|Wakayama
+Japan|JPN|Tokyo
+Japan|JPN|Tottori
+Japan|JPN|Yamanashi
+Japan|JPN|Okinawa
+Japan|JPN|Yamagata
+Japan|JPN|Yamaguchi
+Jemen|YEM|Abyan
+Jemen|YEM|`Adan
+Jemen|YEM|Al Mahrah
+Jemen|YEM|Hadramawt
+Jemen|YEM|Shabwah
+Jemen|YEM|Lahij
+Jemen|YEM|Al Bayda'
+Jemen|YEM|Al Hudaydah
+Jemen|YEM|Al Jawf
+Jemen|YEM|Al Mahwit
+Jemen|YEM|Dhamar
+Jemen|YEM|Hajjah
+Jemen|YEM|Ibb
+Jemen|YEM|Ma'rib
+Jemen|YEM|Sa`dah
+Jemen|YEM|Ta`izz
+Jemen|YEM|San`a'
+Jordanien|JOR|Al Balqa'
+Jordanien|JOR|Al Karak
+Jordanien|JOR|At Tafilah
+Jordanien|JOR|Al Mafraq
+Jordanien|JOR|`Amman
+Jordanien|JOR|Az Zarqa
+Jordanien|JOR|Irbid
+Jordanien|JOR|Ma`an
+Jordanien|JOR|‘Ajlun
+Jordanien|JOR|Al ‘Aqabah
+Jordanien|JOR|Jarash
+Jordanien|JOR|Madaba
+Kaimaninseln|CYM|Creek
+Kaimaninseln|CYM|Eastern
+Kaimaninseln|CYM|Midland
+Kaimaninseln|CYM|South Town
+Kaimaninseln|CYM|Spot Bay
+Kaimaninseln|CYM|Stake Bay
+Kaimaninseln|CYM|West End
+Kaimaninseln|CYM|Western
+Kambodscha|KHM|Kampong Cham
+Kambodscha|KHM|Kampong Chhnang
+Kambodscha|KHM|Kampong Spoe
+Kambodscha|KHM|Kampong Thum
+Kambodscha|KHM|Kandal
+Kambodscha|KHM|Kaoh Kong
+Kambodscha|KHM|Kracheh
+Kambodscha|KHM|Mondol Kiri
+Kambodscha|KHM|Pouthisat
+Kambodscha|KHM|Preah Vihear
+Kambodscha|KHM|Prey Veng
+Kambodscha|KHM|Stoeng Treng
+Kambodscha|KHM|Svay Rieng
+Kambodscha|KHM|Takev
+Kambodscha|KHM|Kampot
+Kambodscha|KHM|Ratanah Kiri
+Kambodscha|KHM|Phnum Penh
+Kambodscha|KHM|Banteay Mean Cheay
+Kambodscha|KHM|Siem Reab
+Kambodscha|KHM|Otdar Mean Cheay
+Kambodscha|KHM|Keb
+Kambodscha|KHM|Batdambang
+Kambodscha|KHM|Preah Seihanu
+Kambodscha|KHM|Pailin
+Kamerun|CMR|Est
+Kamerun|CMR|Littoral
+Kamerun|CMR|Nord-Ouest
+Kamerun|CMR|Ouest
+Kamerun|CMR|Sud-Ouest
+Kamerun|CMR|Adamaoua
+Kamerun|CMR|Centre
+Kamerun|CMR|Extreme-Nord
+Kamerun|CMR|Nord
+Kamerun|CMR|Sud
+Kanada|CAN|Alberta
+Kanada|CAN|British Columbia
+Kanada|CAN|Manitoba
+Kanada|CAN|New Brunswick
+Kanada|CAN|Newfoundland
+Kanada|CAN|Nova Scotia
+Kanada|CAN|Ontario
+Kanada|CAN|Prince Edward Island
+Kanada|CAN|Quebec
+Kanada|CAN|Saskatchewan
+Kanada|CAN|Yukon Territory
+Kanada|CAN|Northwest Territories
+Kanada|CAN|Nunavut
+Kap Verde|CPV|Boa Vista
+Kap Verde|CPV|Brava
+Kap Verde|CPV|Fogo
+Kap Verde|CPV|Maio
+Kap Verde|CPV|Paul
+Kap Verde|CPV|Praia
+Kap Verde|CPV|Ribeira Grande
+Kap Verde|CPV|Sal
+Kap Verde|CPV|Santa Catarina
+Kap Verde|CPV|Sao Nicolau
+Kap Verde|CPV|Sao Vicente
+Kap Verde|CPV|Tarrafal
+Kasachstan|KAZ|Almaty
+Kasachstan|KAZ|Almaty (Stadt)
+Kasachstan|KAZ|Aqmola
+Kasachstan|KAZ|Aqtobe
+Kasachstan|KAZ|Astana
+Kasachstan|KAZ|Atyrau
+Kasachstan|KAZ|Batys Qazaqstan
+Kasachstan|KAZ|Bayqongyr
+Kasachstan|KAZ|Mangghystau
+Kasachstan|KAZ|Ongtustik Qazaqstan
+Kasachstan|KAZ|Pavlodar
+Kasachstan|KAZ|Qaraghandy
+Kasachstan|KAZ|Qostanay
+Kasachstan|KAZ|Qyzylorda
+Kasachstan|KAZ|Shyghys Qazaqstan
+Kasachstan|KAZ|Zhambyl
+Kasachstan|KAZ|Soltustik Qazaqstan
+Katar|QAT|Ad Dawhah
+Katar|QAT|Al Ghuwayriyah
+Katar|QAT|Al Jumayliyah
+Katar|QAT|Al Khawr
+Katar|QAT|Al Wakrah
+Katar|QAT|Ar Rayyan
+Katar|QAT|Jarayan al Batinah
+Katar|QAT|Madinat ash Shamal
+Katar|QAT|Umm Salal
+Kenia|KEN|Central
+Kenia|KEN|Coast
+Kenia|KEN|Eastern
+Kenia|KEN|Nairobi Area
+Kenia|KEN|North-Eastern
+Kenia|KEN|Nyanza
+Kenia|KEN|Rift Valley
+Kenia|KEN|Western
+Kirgisistan|KGZ|Bishkek
+Kirgisistan|KGZ|Chuy
+Kirgisistan|KGZ|Jalal-Abad
+Kirgisistan|KGZ|Naryn
+Kirgisistan|KGZ|Talas
+Kirgisistan|KGZ|Ysyk-Kol
+Kirgisistan|KGZ|Osh
+Kirgisistan|KGZ|Batken
+Kiribati|KIR|Gilbert Islands
+Kiribati|KIR|Line Islands
+Kiribati|KIR|Phoenix Islands
+Kokosinseln|CCK|Kokosinseln
+Kolumbien|COL|Amazonas
+Kolumbien|COL|Antioquia
+Kolumbien|COL|Arauca
+Kolumbien|COL|Atlantico
+Kolumbien|COL|Caqueta
+Kolumbien|COL|Cauca
+Kolumbien|COL|Cesar
+Kolumbien|COL|Choco
+Kolumbien|COL|Cordoba
+Kolumbien|COL|Guaviare
+Kolumbien|COL|Guainia
+Kolumbien|COL|Huila
+Kolumbien|COL|La Guajira
+Kolumbien|COL|Meta
+Kolumbien|COL|Narino
+Kolumbien|COL|Putumayo
+Kolumbien|COL|Norte de Santander
+Kolumbien|COL|Risaralda
+Kolumbien|COL|Quindio
+Kolumbien|COL|Santander
+Kolumbien|COL|San Andres y Providencia
+Kolumbien|COL|Tolima
+Kolumbien|COL|Sucre
+Kolumbien|COL|Vaupes
+Kolumbien|COL|Valle del Cauca
+Kolumbien|COL|Casanare
+Kolumbien|COL|Vichada
+Kolumbien|COL|Distrito Capital
+Kolumbien|COL|Cundinamarca
+Kolumbien|COL|Boyaca
+Kolumbien|COL|Bolivar
+Kolumbien|COL|Caldas
+Kolumbien|COL|Magdalena
+Komoren|COM|Anjouan
+Komoren|COM|Grande Comore
+Komoren|COM|Moheli
+Kongo, Demokratische Republik|COD|Bandundu
+Kongo, Demokratische Republik|COD|Equateur
+Kongo, Demokratische Republik|COD|Kasai-Occidental
+Kongo, Demokratische Republik|COD|Kasai-Oriental
+Kongo, Demokratische Republik|COD|Katanga
+Kongo, Demokratische Republik|COD|Kinshasa
+Kongo, Demokratische Republik|COD|Bas-Congo
+Kongo, Demokratische Republik|COD|Orientale
+Kongo, Demokratische Republik|COD|Maniema
+Kongo, Demokratische Republik|COD|Nord-Kivu
+Kongo, Demokratische Republik|COD|Sud-Kivu
+Kongo, Republik|COG|Bouenza
+Kongo, Republik|COG|Cuvette
+Kongo, Republik|COG|Kouilou
+Kongo, Republik|COG|Lekoumou
+Kongo, Republik|COG|Likouala
+Kongo, Republik|COG|Niari
+Kongo, Republik|COG|Plateaux
+Kongo, Republik|COG|Sangha
+Kongo, Republik|COG|Pool
+Kongo, Republik|COG|Brazzaville
+Kosovo|XKO|Pristina
+Kosovo|XKO|Prizren
+Kroatien|HRV|Mittelkroatien [Bjelovarsko-Bilogorska]
+Kroatien|HRV|Slawonien [Brodsko-Posavska]
+Kroatien|HRV|Dubrovnik [Dubrovacko-Neretvanska]
+Kroatien|HRV|Istrien
+Kroatien|HRV|Mittelkroatien [Karlovacka]
+Kroatien|HRV|Mittelkroatien [Koprivnicko-Krizevacka]
+Kroatien|HRV|Mittelkroatien [Krapinsko-Zagorska]
+Kroatien|HRV|Kvarner Region [Licko-Senjska]
+Kroatien|HRV|Mittelkroatien [Medimurska]
+Kroatien|HRV|Slawonien [Osjecko-Baranjska]
+Kroatien|HRV|Slawonien [Pozesko-Slavonska]
+Kroatien|HRV|Kvarner Region [Primorsko-Goranska]
+Kroatien|HRV|Dalmatien-Sibenik [Sibensko-Kninska]
+Kroatien|HRV|Mittelkroatien [Sisacko-Moslavacka]
+Kroatien|HRV|Dalmatien-Split [Splitsko-Dalmatinska]
+Kroatien|HRV|Slawonien [Viroviticko-Podravska]
+Kroatien|HRV|Mittelkroatien [Varazdinska]
+Kroatien|HRV|Dalmatien-Zadar (Region) [Zadarska]
+Kroatien|HRV|Slawonien [Vukovarsko-Srijemska]
+Kroatien|HRV|Zagreb (Stadt) [Grad Zagreb]
+Kroatien|HRV|Zagreb (Region) [Zagrebacka]
+Kuba|CUB|Pinar del Rio
+Kuba|CUB|Ciudad de la Habana
+Kuba|CUB|Matanzas
+Kuba|CUB|Isla de la Juventud
+Kuba|CUB|Camaguey
+Kuba|CUB|Ciego de Avila
+Kuba|CUB|Cienfuegos
+Kuba|CUB|Granma
+Kuba|CUB|Guantanamo
+Kuba|CUB|La Habana
+Kuba|CUB|Holguin
+Kuba|CUB|Las Tunas
+Kuba|CUB|Sancti Spiritus
+Kuba|CUB|Santiago de Cuba
+Kuba|CUB|Villa Clara
+Kuwait|KWT|Al `Asimah
+Kuwait|KWT|Hawalli
+Kuwait|KWT|Al Ahmadi
+Kuwait|KWT|Al Jahra´
+Kuwait|KWT|Al Farwaniyah
+Laos|LAO|Attapu
+Laos|LAO|Champasak
+Laos|LAO|Houaphan
+Laos|LAO|Oudomxai
+Laos|LAO|Xiagnabouli
+Laos|LAO|Xiangkhoang
+Laos|LAO|Khammouan
+Laos|LAO|Louangnamtha
+Laos|LAO|Louangphabang
+Laos|LAO|Phongsali
+Laos|LAO|Salavan
+Laos|LAO|Savannahkhet
+Laos|LAO|Bokeo
+Laos|LAO|Bolikhamxai
+Laos|LAO|Viangchan (Stadt)
+Laos|LAO|Xekong
+Laos|LAO|Xaisomboun
+Laos|LAO|Viangchan
+Lesotho|LSO|Berea
+Lesotho|LSO|Butha-Buthe
+Lesotho|LSO|Leribe
+Lesotho|LSO|Mafeteng
+Lesotho|LSO|Maseru
+Lesotho|LSO|Mohales Hoek
+Lesotho|LSO|Mokhotlong
+Lesotho|LSO|Qachas Nek
+Lesotho|LSO|Quthing
+Lesotho|LSO|Thaba-Tseka
+Lettland|LVA|Aizkraukle
+Lettland|LVA|Aluksne
+Lettland|LVA|Balvi
+Lettland|LVA|Bauska
+Lettland|LVA|Cesis
+Lettland|LVA|Daugavpils
+Lettland|LVA|Dobele
+Lettland|LVA|Gulbene
+Lettland|LVA|Jekabpils
+Lettland|LVA|Jelgava
+Lettland|LVA|Kraslava
+Lettland|LVA|Kuldiga
+Lettland|LVA|Liepaja
+Lettland|LVA|Limbazi
+Lettland|LVA|Ludza
+Lettland|LVA|Ogre
+Lettland|LVA|Madona
+Lettland|LVA|Rezekne
+Lettland|LVA|Preili
+Lettland|LVA|Saldus
+Lettland|LVA|Riga
+Lettland|LVA|Tukums
+Lettland|LVA|Talsi
+Lettland|LVA|Valmiera
+Lettland|LVA|Valka
+Lettland|LVA|Ventspils
+Libanon|LBN|Beqaa
+Libanon|LBN|Liban-Nord
+Libanon|LBN|Beyrouth
+Libanon|LBN|Mont-Liban
+Libanon|LBN|Liban-Sud
+Libanon|LBN|Nabatiye
+Liberia|LBR|Bong
+Liberia|LBR|Grand Gedeh
+Liberia|LBR|Lofa
+Liberia|LBR|Monrovia
+Liberia|LBR|Nimba
+Liberia|LBR|Sinoe
+Liberia|LBR|Grand Bassa
+Liberia|LBR|Grand Cape Mount
+Liberia|LBR|Maryland
+Liberia|LBR|Montserrado
+Libyen|LBY|Al `Aziziyah
+Libyen|LBY|Al Jufrah
+Libyen|LBY|Al Kufrah
+Libyen|LBY|Ash Shati'
+Libyen|LBY|Murzuq
+Libyen|LBY|Sabha
+Libyen|LBY|Tarhunah
+Libyen|LBY|Tubruq
+Libyen|LBY|Zlitan
+Libyen|LBY|Ajdabiya
+Libyen|LBY|Al Fatih
+Libyen|LBY|Al Jabal al Akhdar
+Libyen|LBY|Al Khums
+Libyen|LBY|An Nuqat al Khams
+Libyen|LBY|Awbari
+Libyen|LBY|Banghazi
+Libyen|LBY|Az Zawiyah
+Libyen|LBY|Ghadamis
+Libyen|LBY|Darnah
+Libyen|LBY|Misratah
+Libyen|LBY|Gharyan
+Libyen|LBY|Surt
+Libyen|LBY|Sawfajjin
+Libyen|LBY|Yafran
+Libyen|LBY|Tarabulus
+Liechtenstein|LIE|Balzers
+Liechtenstein|LIE|Eschen
+Liechtenstein|LIE|Gamprin
+Liechtenstein|LIE|Mauren
+Liechtenstein|LIE|Planken
+Liechtenstein|LIE|Ruggell
+Liechtenstein|LIE|Schaan
+Liechtenstein|LIE|Schellenberg
+Liechtenstein|LIE|Triesen
+Liechtenstein|LIE|Triesenberg
+Liechtenstein|LIE|Vaduz
+Litauen|LTU|Alytaus Apskritis
+Litauen|LTU|Kaunas [Kauno Apskritis]
+Litauen|LTU|Memel [Klaipedos Apskritis]
+Litauen|LTU|Marijampoles Apskritis
+Litauen|LTU|Ponewiesch [Panevezio Apskritis]
+Litauen|LTU|Schaulen [Siauliu Apskritis]
+Litauen|LTU|Tauroggen [Taurages Apskritis]
+Litauen|LTU|Telsiu Apskritis
+Litauen|LTU|Utena [Utenos Apskritis]
+Litauen|LTU|Vilnius (Region) [Vilniaus Apskritis]
+Luxemburg|LUX|Diekirch
+Luxemburg|LUX|Grevenmacher
+Luxemburg|LUX|Luxembourg
+Macau|MAC|Ilhas
+Macau|MAC|Macau
+Madagaskar|MDG|Antsiranana
+Madagaskar|MDG|Fianarantsoa
+Madagaskar|MDG|Mahajanga
+Madagaskar|MDG|Toamasina
+Madagaskar|MDG|Antananarivo
+Madagaskar|MDG|Toliara
+Malawi|MWI|Chikwawa
+Malawi|MWI|Chiradzulu
+Malawi|MWI|Chitipa
+Malawi|MWI|Thyolo
+Malawi|MWI|Dedza
+Malawi|MWI|Dowa
+Malawi|MWI|Karonga
+Malawi|MWI|Kasungu
+Malawi|MWI|Machinga (Kasupe)
+Malawi|MWI|Lilongwe
+Malawi|MWI|Mangochi (Fort Johnston)
+Malawi|MWI|Mchinji
+Malawi|MWI|Mulanje (Mlange)
+Malawi|MWI|Mzimba
+Malawi|MWI|Ntcheu
+Malawi|MWI|Nkhotakota
+Malawi|MWI|Nkhata Bay
+Malawi|MWI|Ntchisi (Nchisi)
+Malawi|MWI|Nsanje
+Malawi|MWI|Salima
+Malawi|MWI|Rumphi
+Malawi|MWI|Blantyre
+Malawi|MWI|Zomba
+Malawi|MWI|Mwanza
+Malaysia|MYS|Johor
+Malaysia|MYS|Kedah
+Malaysia|MYS|Kelantan
+Malaysia|MYS|Melaka
+Malaysia|MYS|Negeri Sembilan
+Malaysia|MYS|Pahang
+Malaysia|MYS|Perak
+Malaysia|MYS|Perlis
+Malaysia|MYS|Pulau Pinang
+Malaysia|MYS|Sarawak
+Malaysia|MYS|Selangor
+Malaysia|MYS|Terengganu
+Malaysia|MYS|Wilayah Persekutuan
+Malaysia|MYS|Labuan
+Malaysia|MYS|Sabah
+Malediven|MDV|Seenu
+Malediven|MDV|Laamu
+Malediven|MDV|Alifu
+Malediven|MDV|Baa
+Malediven|MDV|Dhaalu
+Malediven|MDV|Faafu
+Malediven|MDV|Gaafu Alifu
+Malediven|MDV|Gaafu Dhaalu
+Malediven|MDV|Haa Alifu
+Malediven|MDV|Haa Dhaalu
+Malediven|MDV|Kaafu
+Malediven|MDV|Lhaviyani
+Malediven|MDV|Maale
+Malediven|MDV|Meemu
+Malediven|MDV|Gnaviyani
+Malediven|MDV|Raa
+Malediven|MDV|Noonu
+Malediven|MDV|Thaa
+Malediven|MDV|Shaviyani
+Malediven|MDV|Vaavu
+Mali|MLI|Bamako
+Mali|MLI|Gao
+Mali|MLI|Kayes
+Mali|MLI|Mopti
+Mali|MLI|Segou
+Mali|MLI|Sikasso
+Mali|MLI|Koulikoro
+Mali|MLI|Tombouctou
+Malta|MLT|Malta
+Marokko|MAR|Agadir
+Marokko|MAR|Al Hoceima
+Marokko|MAR|Azilal
+Marokko|MAR|Ben Slimane
+Marokko|MAR|Beni Mellal
+Marokko|MAR|Boulemane
+Marokko|MAR|Casablanca
+Marokko|MAR|Chaouen
+Marokko|MAR|El Jadida
+Marokko|MAR|El Kelaa des Sraghna
+Marokko|MAR|Er Rachidia
+Marokko|MAR|Essaouira
+Marokko|MAR|Fes
+Marokko|MAR|Figuig
+Marokko|MAR|Kenitra
+Marokko|MAR|Khenifra
+Marokko|MAR|Khemisset
+Marokko|MAR|Marrakech
+Marokko|MAR|Khouribga
+Marokko|MAR|Nador
+Marokko|MAR|Meknes
+Marokko|MAR|Oujda
+Marokko|MAR|Ouarzazate
+Marokko|MAR|Safi
+Marokko|MAR|Rabat-Sale
+Marokko|MAR|Tanger
+Marokko|MAR|Settat
+Marokko|MAR|Taza
+Marokko|MAR|Tata
+Marokko|MAR|Ifrane
+Marokko|MAR|Tiznit
+Marokko|MAR|Taounate
+Marokko|MAR|Sidi Kacem
+Marokko|MAR|Laayoune
+Marokko|MAR|Tan-Tan
+Marokko|MAR|Larache
+Marokko|MAR|Guelmim
+Marokko|MAR|Taroudannt
+Marokko|MAR|Tetouan
+Marokko|MAR|Assa-Zag
+Marokko|MAR|Es Smara
+Marshallinseln|MHL|Marshallinseln
+Martinique|MTQ|Martinique
+Mauretanien|MRT|Hodh Ech Chargui
+Mauretanien|MRT|Hodh El Gharbi
+Mauretanien|MRT|Assaba
+Mauretanien|MRT|Gorgol
+Mauretanien|MRT|Brakna
+Mauretanien|MRT|Trarza
+Mauretanien|MRT|Adrar
+Mauretanien|MRT|Dakhlet Nouadhibou
+Mauretanien|MRT|Tagant
+Mauretanien|MRT|Guidimaka
+Mauretanien|MRT|Tiris Zemmour
+Mauretanien|MRT|Inchiri
+Mauritius|MUS|Black River
+Mauritius|MUS|Flacq
+Mauritius|MUS|Grand Port
+Mauritius|MUS|Moka
+Mauritius|MUS|Pamplemousses
+Mauritius|MUS|Plaines Wilhems
+Mauritius|MUS|Port Louis
+Mauritius|MUS|Riviere du Rempart
+Mauritius|MUS|Savanne
+Mauritius|MUS|Agalega Islands
+Mauritius|MUS|Cargados Carajos
+Mauritius|MUS|Rodrigues
+Mayotte|MYT|Mayotte
+Mazedonien|MKD|Aracinovo
+Mazedonien|MKD|Bac
+Mazedonien|MKD|Belcista
+Mazedonien|MKD|Berovo
+Mazedonien|MKD|Bistrica
+Mazedonien|MKD|Bitola
+Mazedonien|MKD|Blatec
+Mazedonien|MKD|Bogdanci
+Mazedonien|MKD|Bogomila
+Mazedonien|MKD|Bogovinje
+Mazedonien|MKD|Bosilovo
+Mazedonien|MKD|Brvenica
+Mazedonien|MKD|Cair
+Mazedonien|MKD|Capari
+Mazedonien|MKD|Caska
+Mazedonien|MKD|Centar
+Mazedonien|MKD|Cegrane
+Mazedonien|MKD|Cesinovo
+Mazedonien|MKD|Centar Zupa
+Mazedonien|MKD|Debar
+Mazedonien|MKD|Cucer-Sandevo
+Mazedonien|MKD|Delogozdi
+Mazedonien|MKD|Delcevo
+Mazedonien|MKD|Demir Kapija
+Mazedonien|MKD|Demir Hisar
+Mazedonien|MKD|Dolna Banjica
+Mazedonien|MKD|Dobrusevo
+Mazedonien|MKD|Dorce Petrov
+Mazedonien|MKD|Dolneni
+Mazedonien|MKD|Dzepciste
+Mazedonien|MKD|Drugovo
+Mazedonien|MKD|Gostivar
+Mazedonien|MKD|Gradsko
+Mazedonien|MKD|Gazi Baba
+Mazedonien|MKD|Gevgelija
+Mazedonien|MKD|Jegunovce
+Mazedonien|MKD|Kamenjane
+Mazedonien|MKD|Ilinden
+Mazedonien|MKD|Izvor
+Mazedonien|MKD|Kavadarci
+Mazedonien|MKD|Kicevo
+Mazedonien|MKD|Karbinci
+Mazedonien|MKD|Karpos
+Mazedonien|MKD|Kocani
+Mazedonien|MKD|Konce
+Mazedonien|MKD|Kisela Voda
+Mazedonien|MKD|Klecevce
+Mazedonien|MKD|Kratovo
+Mazedonien|MKD|Kosel
+Mazedonien|MKD|Konopiste
+Mazedonien|MKD|Kondovo
+Mazedonien|MKD|Kuklis
+Mazedonien|MKD|Krusevo
+Mazedonien|MKD|Krivogastani
+Mazedonien|MKD|Kriva Palanka
+Mazedonien|MKD|Lipkovo
+Mazedonien|MKD|Labunista
+Mazedonien|MKD|Kumanovo
+Mazedonien|MKD|Kukurecani
+Mazedonien|MKD|Makedonski Brod
+Mazedonien|MKD|Makedonska Kamenica
+Mazedonien|MKD|Lukovo
+Mazedonien|MKD|Lozovo
+Mazedonien|MKD|Murtino
+Mazedonien|MKD|Negotino
+Mazedonien|MKD|Negotino-Polosko
+Mazedonien|MKD|Novaci
+Mazedonien|MKD|Mavrovi Anovi
+Mazedonien|MKD|Meseista
+Mazedonien|MKD|Miravci
+Mazedonien|MKD|Mogila
+Mazedonien|MKD|Orizari
+Mazedonien|MKD|Oslomej
+Mazedonien|MKD|Pehcevo
+Mazedonien|MKD|Petrovec
+Mazedonien|MKD|Novo Selo
+Mazedonien|MKD|Oblesevo
+Mazedonien|MKD|Ohrid
+Mazedonien|MKD|Orasac
+Mazedonien|MKD|Rankovce
+Mazedonien|MKD|Radovis
+Mazedonien|MKD|Rosoman
+Mazedonien|MKD|Resen
+Mazedonien|MKD|Podares
+Mazedonien|MKD|Plasnica
+Mazedonien|MKD|Probistip
+Mazedonien|MKD|Prilep
+Mazedonien|MKD|Sopotnica
+Mazedonien|MKD|Sopiste
+Mazedonien|MKD|Staravina
+Mazedonien|MKD|Srbinovo
+Mazedonien|MKD|Samokov
+Mazedonien|MKD|Rostusa
+Mazedonien|MKD|Sipkovica
+Mazedonien|MKD|Saraj
+Mazedonien|MKD|Suto Orizari
+Mazedonien|MKD|Sveti Nikole
+Mazedonien|MKD|Strumica
+Mazedonien|MKD|Studenicani
+Mazedonien|MKD|Stip
+Mazedonien|MKD|Struga
+Mazedonien|MKD|Star Dojran
+Mazedonien|MKD|Staro Nagoricane
+Mazedonien|MKD|Velesta
+Mazedonien|MKD|Vevcani
+Mazedonien|MKD|Vasilevo
+Mazedonien|MKD|Veles
+Mazedonien|MKD|Topolcani
+Mazedonien|MKD|Valandovo
+Mazedonien|MKD|Tearce
+Mazedonien|MKD|Tetovo
+Mazedonien|MKD|Zelenikovo
+Mazedonien|MKD|Zajas
+Mazedonien|MKD|Vrutok
+Mazedonien|MKD|Vratnica
+Mazedonien|MKD|Vrapciste
+Mazedonien|MKD|Vranestica
+Mazedonien|MKD|Vitoliste
+Mazedonien|MKD|Vinica
+Mazedonien|MKD|Zrnovci
+Mazedonien|MKD|Zletovo
+Mazedonien|MKD|Zitose
+Mazedonien|MKD|Zelino
+Mexiko|MEX|Aguascalientes
+Mexiko|MEX|Baja California
+Mexiko|MEX|Baja California Sur
+Mexiko|MEX|Campeche
+Mexiko|MEX|Chiapas
+Mexiko|MEX|Chihuahua
+Mexiko|MEX|Coahuila de Zaragoza
+Mexiko|MEX|Colima
+Mexiko|MEX|Distrito Federal
+Mexiko|MEX|Durango
+Mexiko|MEX|Guanajuato
+Mexiko|MEX|Guerrero
+Mexiko|MEX|Hidalgo
+Mexiko|MEX|Jalisco
+Mexiko|MEX|Mexico
+Mexiko|MEX|Morelos
+Mexiko|MEX|Michoacan de Ocampo
+Mexiko|MEX|Nuevo Leon
+Mexiko|MEX|Nayarit
+Mexiko|MEX|Puebla
+Mexiko|MEX|Oaxaca
+Mexiko|MEX|Quintana Roo
+Mexiko|MEX|Queretaro de Arteaga
+Mexiko|MEX|Sinaloa
+Mexiko|MEX|San Luis Potosi
+Mexiko|MEX|Tabasco
+Mexiko|MEX|Sonora
+Mexiko|MEX|Tlaxcala
+Mexiko|MEX|Tamaulipas
+Mexiko|MEX|Yucatan
+Mexiko|MEX|Veracruz-Llave
+Mexiko|MEX|Zacatecas
+Mikronesien|FSM|Kosrae
+Mikronesien|FSM|Pohnpei
+Mikronesien|FSM|Chuuk
+Mikronesien|FSM|Yap
+Moldawien|MDA|Chisinau (Stadt)
+Moldawien|MDA|Balti
+Moldawien|MDA|Cahul
+Moldawien|MDA|Chisinau
+Moldawien|MDA|Dubasari
+Moldawien|MDA|Edinet
+Moldawien|MDA|Gagauzia
+Moldawien|MDA|Lapusna
+Moldawien|MDA|Orhei
+Moldawien|MDA|Soroca
+Moldawien|MDA|Tighina
+Moldawien|MDA|Ungheni
+Monaco|MCO|Monaco
+Mongolei|MNG|Arhangay
+Mongolei|MNG|Bayanhongor
+Mongolei|MNG|Bayan-Olgiy
+Mongolei|MNG|Darhan
+Mongolei|MNG|Dornod
+Mongolei|MNG|Dornogovi
+Mongolei|MNG|Dundgovi
+Mongolei|MNG|Dzavhan
+Mongolei|MNG|Govi-Altay
+Mongolei|MNG|Hentiy
+Mongolei|MNG|Hovd
+Mongolei|MNG|Hovsgol
+Mongolei|MNG|Omnogovi
+Mongolei|MNG|Ovorhangay
+Mongolei|MNG|Selenge
+Mongolei|MNG|Tov
+Mongolei|MNG|Suhbaatar
+Mongolei|MNG|Ulaanbaatar
+Mongolei|MNG|Uvs
+Mongolei|MNG|Erdenet
+Mongolei|MNG|Bulgan
+Montenegro|MNE|Andrijevica
+Montenegro|MNE|Bar
+Montenegro|MNE|Berane
+Montenegro|MNE|Bijelo Polje
+Montenegro|MNE|Budva
+Montenegro|MNE|Cetinje
+Montenegro|MNE|Danilovgrad
+Montenegro|MNE|Herceg Novi
+Montenegro|MNE|Kolasin
+Montenegro|MNE|Kotor
+Montenegro|MNE|Mojkovac
+Montenegro|MNE|Niksic
+Montenegro|MNE|Plav
+Montenegro|MNE|Pljevlja
+Montenegro|MNE|Pluzine
+Montenegro|MNE|Rozaje
+Montenegro|MNE|Podgorica
+Montenegro|MNE|Tivat
+Montenegro|MNE|Savnik
+Montenegro|MNE|Zabljak
+Montenegro|MNE|Ulcinj
+Montserrat|MSR|Saint Anthony
+Montserrat|MSR|Saint Georges
+Montserrat|MSR|Saint Peter
+Mosambik|MOZ|Cabo Delgado
+Mosambik|MOZ|Gaza
+Mosambik|MOZ|Inhambane
+Mosambik|MOZ|Maputo
+Mosambik|MOZ|Sofala
+Mosambik|MOZ|Nampula
+Mosambik|MOZ|Niassa
+Mosambik|MOZ|Tete
+Mosambik|MOZ|Zambezia
+Mosambik|MOZ|Manica
+Myanmar (Burma)|MMR|Rakhine State
+Myanmar (Burma)|MMR|Chin State
+Myanmar (Burma)|MMR|Ayeyarwady
+Myanmar (Burma)|MMR|Kachin State
+Myanmar (Burma)|MMR|Kayin State
+Myanmar (Burma)|MMR|Kayah State
+Myanmar (Burma)|MMR|Mandalay
+Myanmar (Burma)|MMR|Sagaing
+Myanmar (Burma)|MMR|Shan State
+Myanmar (Burma)|MMR|Tanintharyi
+Myanmar (Burma)|MMR|Mon State
+Myanmar (Burma)|MMR|Magway
+Myanmar (Burma)|MMR|Bago
+Myanmar (Burma)|MMR|Yangon
+Namibia|NAM|Khomas
+Namibia|NAM|Caprivi
+Namibia|NAM|Erongo
+Namibia|NAM|Hardap
+Namibia|NAM|Karas
+Namibia|NAM|Kunene
+Namibia|NAM|Ohangwena
+Namibia|NAM|Okavango
+Namibia|NAM|Omaheke
+Namibia|NAM|Omusati
+Namibia|NAM|Oshana
+Namibia|NAM|Oshikoto
+Namibia|NAM|Otjozondjupa
+Nauru|NRU|Aiwo
+Nauru|NRU|Anabar
+Nauru|NRU|Anetan
+Nauru|NRU|Anibare
+Nauru|NRU|Baiti
+Nauru|NRU|Boe
+Nauru|NRU|Buada
+Nauru|NRU|Denigomodu
+Nauru|NRU|Ewa
+Nauru|NRU|Ijuw
+Nauru|NRU|Meneng
+Nauru|NRU|Nibok
+Nauru|NRU|Uaboe
+Nauru|NRU|Yaren
+Nepal|NPL|Bagmati
+Nepal|NPL|Bheri
+Nepal|NPL|Dhawalagiri
+Nepal|NPL|Gandaki
+Nepal|NPL|Janakpur
+Nepal|NPL|Karnali
+Nepal|NPL|Kosi
+Nepal|NPL|Lumbini
+Nepal|NPL|Mahakali
+Nepal|NPL|Mechi
+Nepal|NPL|Narayani
+Nepal|NPL|Rapti
+Nepal|NPL|Sagarmatha
+Nepal|NPL|Seti
+Neukaledonien|NCL|Neukaledonien
+Neuseeland|NZL|Auckland
+Neuseeland|NZL|Bay of Plenty
+Neuseeland|NZL|Canterbury
+Neuseeland|NZL|Chatham-Inseln
+Neuseeland|NZL|Christchurch [Stadt]
+Neuseeland|NZL|Gisborne
+Neuseeland|NZL|Hawke's Bay
+Neuseeland|NZL|Manawatu-Wanganui
+Neuseeland|NZL|Marlborough
+Neuseeland|NZL|Nelson
+Neuseeland|NZL|Northland
+Neuseeland|NZL|Otago
+Neuseeland|NZL|Southland
+Neuseeland|NZL|Taranaki
+Neuseeland|NZL|Tasman
+Neuseeland|NZL|Wellington
+Neuseeland|NZL|Waikato
+Neuseeland|NZL|West Coast
+Nicaragua|NIC|Boaco
+Nicaragua|NIC|Carazo
+Nicaragua|NIC|Chinandega
+Nicaragua|NIC|Chontales
+Nicaragua|NIC|Esteli
+Nicaragua|NIC|Granada
+Nicaragua|NIC|Jinotega
+Nicaragua|NIC|Leon
+Nicaragua|NIC|Madriz
+Nicaragua|NIC|Managua
+Nicaragua|NIC|Masaya
+Nicaragua|NIC|Matagalpa
+Nicaragua|NIC|Nueva Segovia
+Nicaragua|NIC|Rio San Juan
+Nicaragua|NIC|Rivas
+Nicaragua|NIC|Atlantico Sur
+Nicaragua|NIC|Atlantico Norte
+Niederlande|NLD|Drenthe
+Niederlande|NLD|Friesland
+Niederlande|NLD|Gelderland
+Niederlande|NLD|Groningen
+Niederlande|NLD|Limburg
+Niederlande|NLD|Nord-Brabant
+Niederlande|NLD|Nord-Holland
+Niederlande|NLD|Utrecht
+Niederlande|NLD|Zeeland
+Niederlande|NLD|Süd-Holland
+Niederlande|NLD|Overijssel
+Niederlande|NLD|Flevoland
+Niederländische Antillen|ANT|Niederländische Antillen
+Niger|NER|Agadez
+Niger|NER|Diffa
+Niger|NER|Dosso
+Niger|NER|Maradi
+Niger|NER|Tahoua
+Niger|NER|Zinder
+Niger|NER|Niamey
+Niger|NER|Tillaberi
+Nigeria|NGA|Lagos
+Nigeria|NGA|Abuja Capital Territory
+Nigeria|NGA|Ogun
+Nigeria|NGA|Akwa Ibom
+Nigeria|NGA|Cross River
+Nigeria|NGA|Kaduna
+Nigeria|NGA|Katsina
+Nigeria|NGA|Anambra
+Nigeria|NGA|Benue
+Nigeria|NGA|Borno
+Nigeria|NGA|Imo
+Nigeria|NGA|Kano
+Nigeria|NGA|Kwara
+Nigeria|NGA|Niger
+Nigeria|NGA|Oyo
+Nigeria|NGA|Delta
+Nigeria|NGA|Adamawa
+Nigeria|NGA|Jigawa
+Nigeria|NGA|Edo
+Nigeria|NGA|Kogi
+Nigeria|NGA|Kebbi
+Nigeria|NGA|Taraba
+Nigeria|NGA|Osun
+Nigeria|NGA|Abia
+Nigeria|NGA|Yobe
+Nigeria|NGA|Enugu
+Nigeria|NGA|Bauchi
+Nigeria|NGA|Plateau
+Nigeria|NGA|Ondo
+Nigeria|NGA|Sokoto
+Nigeria|NGA|Rivers
+Nigeria|NGA|Ekiti
+Nigeria|NGA|Gombe
+Nigeria|NGA|Bayelsa
+Nigeria|NGA|Ebonyi
+Nigeria|NGA|Nassarawa
+Nigeria|NGA|Zamfara
+Niue|NIU|Niue
+Nordkorea|PRK|Chagang-do
+Nordkorea|PRK|Hamgyong-namdo
+Nordkorea|PRK|Hwanghae-namdo
+Nordkorea|PRK|Hwanghae-bukto
+Nordkorea|PRK|Kaesong-si
+Nordkorea|PRK|Kangwon-do
+Nordkorea|PRK|P'yongan-bukto
+Nordkorea|PRK|P'yongyang-si
+Nordkorea|PRK|Yanggang-do
+Nordkorea|PRK|Namp'o-si
+Nordkorea|PRK|P'yongan-namdo
+Nordkorea|PRK|Hamgyong-bukto
+Norfolkinsel|NFK|Norfolkinsel
+Norwegen|NOR|Akershus
+Norwegen|NOR|Ost-Agder
+Norwegen|NOR|Buskerud
+Norwegen|NOR|Finnmark
+Norwegen|NOR|Hedmark
+Norwegen|NOR|Hordaland
+Norwegen|NOR|More og Romsdal
+Norwegen|NOR|Nordland
+Norwegen|NOR|Nord-Trondelag
+Norwegen|NOR|Oppland
+Norwegen|NOR|Oslo
+Norwegen|NOR|Ostfold
+Norwegen|NOR|Rogaland
+Norwegen|NOR|Sogn og Fjordane
+Norwegen|NOR|Süd-Trondelag
+Norwegen|NOR|Troms
+Norwegen|NOR|Telemark
+Norwegen|NOR|Vestfold
+Norwegen|NOR|West-Agder
+Nördliche Marianen|MNP|Nördliche Marianen
+Oman|OMN|Ad Dakhiliyah
+Oman|OMN|Al Batinah
+Oman|OMN|Al Wusta
+Oman|OMN|Ash Sharqiyah
+Oman|OMN|Az Zahirah
+Oman|OMN|Masqat
+Oman|OMN|Musandam
+Oman|OMN|Zufar
+Osttimor|TMP|Osttimor
+Pakistan|PAK|Federally Administered Tribal Areas
+Pakistan|PAK|Balochistan
+Pakistan|PAK|North-West Frontier
+Pakistan|PAK|Punjab
+Pakistan|PAK|Sindh
+Pakistan|PAK|Azad Kashmir
+Pakistan|PAK|Northern Areas
+Pakistan|PAK|Islamabad
+Palau|PLW|Palau
+Panama|PAN|Bocas del Toro
+Panama|PAN|Chiriqui
+Panama|PAN|Cocle
+Panama|PAN|Colon
+Panama|PAN|Darien
+Panama|PAN|Herrera
+Panama|PAN|Los Santos
+Panama|PAN|Panama
+Panama|PAN|San Blas
+Panama|PAN|Veraguas
+Papua-Neuguinea|PNG|Central
+Papua-Neuguinea|PNG|Gulf
+Papua-Neuguinea|PNG|Milne Bay
+Papua-Neuguinea|PNG|Northern
+Papua-Neuguinea|PNG|Southern Highlands
+Papua-Neuguinea|PNG|Western
+Papua-Neuguinea|PNG|Bougainville
+Papua-Neuguinea|PNG|Chimbu
+Papua-Neuguinea|PNG|Eastern Highlands
+Papua-Neuguinea|PNG|East New Britain
+Papua-Neuguinea|PNG|East Sepik
+Papua-Neuguinea|PNG|Madang
+Papua-Neuguinea|PNG|Manus
+Papua-Neuguinea|PNG|Morobe
+Papua-Neuguinea|PNG|New Ireland
+Papua-Neuguinea|PNG|West New Britain
+Papua-Neuguinea|PNG|Western Highlands
+Papua-Neuguinea|PNG|Enga
+Papua-Neuguinea|PNG|Sandaun
+Papua-Neuguinea|PNG|National Capital
+Paraguay|PRY|Alto Parana
+Paraguay|PRY|Amambay
+Paraguay|PRY|Caaguazu
+Paraguay|PRY|Caazapa
+Paraguay|PRY|Central
+Paraguay|PRY|Concepcion
+Paraguay|PRY|Cordillera
+Paraguay|PRY|Guaira
+Paraguay|PRY|Itapua
+Paraguay|PRY|Misiones
+Paraguay|PRY|Neembucu
+Paraguay|PRY|Paraguari
+Paraguay|PRY|Presidente Hayes
+Paraguay|PRY|San Pedro
+Paraguay|PRY|Canindeyu
+Paraguay|PRY|Alto Paraguay
+Paraguay|PRY|Asuncion
+Paraguay|PRY|Boqueron
+Peru|PER|Amazonas
+Peru|PER|Ancash
+Peru|PER|Apurimac
+Peru|PER|Arequipa
+Peru|PER|Ayacucho
+Peru|PER|Cajamarca
+Peru|PER|Callao
+Peru|PER|Cusco
+Peru|PER|Huancavelica
+Peru|PER|Huanuco
+Peru|PER|Ica
+Peru|PER|Junin
+Peru|PER|La Libertad
+Peru|PER|Lambayeque
+Peru|PER|Lima
+Peru|PER|Madre de Dios
+Peru|PER|Loreto
+Peru|PER|Pasco
+Peru|PER|Moquegua
+Peru|PER|Puno
+Peru|PER|Piura
+Peru|PER|Tacna
+Peru|PER|San Martin
+Peru|PER|Ucayali
+Peru|PER|Tumbes
+Philippinen|PHL|Abra
+Philippinen|PHL|Agusan del Norte
+Philippinen|PHL|Agusan del Sur
+Philippinen|PHL|Aklan
+Philippinen|PHL|Albay
+Philippinen|PHL|Antique
+Philippinen|PHL|Bataan
+Philippinen|PHL|Toledo
+Philippinen|PHL|Batanes
+Philippinen|PHL|Tangub
+Philippinen|PHL|Batangas
+Philippinen|PHL|Zamboanga
+Philippinen|PHL|Benguet
+Philippinen|PHL|Trece Martires
+Philippinen|PHL|Bohol
+Philippinen|PHL|Quezon
+Philippinen|PHL|Bukidnon
+Philippinen|PHL|Aurora
+Philippinen|PHL|Bulacan
+Philippinen|PHL|Cagayan
+Philippinen|PHL|Negros Occidental
+Philippinen|PHL|Camarines Norte
+Philippinen|PHL|Camiguin
+Philippinen|PHL|Camarines Sur
+Philippinen|PHL|Catanduanes
+Philippinen|PHL|Capiz
+Philippinen|PHL|Cebu
+Philippinen|PHL|Cavite
+Philippinen|PHL|Eastern Samar
+Philippinen|PHL|Basilan
+Philippinen|PHL|Davao del Sur
+Philippinen|PHL|Davao
+Philippinen|PHL|Ifugao
+Philippinen|PHL|Davao Oriental
+Philippinen|PHL|Ilocos Sur
+Philippinen|PHL|Ilocos Norte
+Philippinen|PHL|Isabela
+Philippinen|PHL|Iloilo
+Philippinen|PHL|Lanao del Norte
+Philippinen|PHL|Lanao del Sur
+Philippinen|PHL|Kalinga-Apayao
+Philippinen|PHL|Laguna
+Philippinen|PHL|Marinduque
+Philippinen|PHL|Masbate
+Philippinen|PHL|La Union
+Philippinen|PHL|Leyte
+Philippinen|PHL|Misamis Occidental
+Philippinen|PHL|Misamis Oriental
+Philippinen|PHL|Mindoro Occidental
+Philippinen|PHL|Mindoro Oriental
+Philippinen|PHL|Nueva Ecija
+Philippinen|PHL|Nueva Vizcaya
+Philippinen|PHL|Mountain
+Philippinen|PHL|Negros Oriental
+Philippinen|PHL|Rizal
+Philippinen|PHL|Pangasinan
+Philippinen|PHL|Pampanga
+Philippinen|PHL|Palawan
+Philippinen|PHL|North Cotabato
+Philippinen|PHL|Maguindanao
+Philippinen|PHL|Samar
+Philippinen|PHL|Romblon
+Philippinen|PHL|Surigao del Norte
+Philippinen|PHL|Sulu
+Philippinen|PHL|Southern Leyte
+Philippinen|PHL|Sorsogon
+Philippinen|PHL|Zamboanga del Norte
+Philippinen|PHL|Zambales
+Philippinen|PHL|Tarlac
+Philippinen|PHL|Surigao del Sur
+Philippinen|PHL|South Cotabato
+Philippinen|PHL|Sultan Kudarat
+Philippinen|PHL|Tawitawi
+Philippinen|PHL|Angeles
+Philippinen|PHL|Zamboanga del Sur
+Philippinen|PHL|Northern Samar
+Philippinen|PHL|Quirino
+Philippinen|PHL|Siquijor
+Philippinen|PHL|Basilan City
+Philippinen|PHL|Batangas City
+Philippinen|PHL|Butuan
+Philippinen|PHL|Cabanatuan
+Philippinen|PHL|Bacolod
+Philippinen|PHL|Bago
+Philippinen|PHL|Baguio
+Philippinen|PHL|Bais
+Philippinen|PHL|Cavite City
+Philippinen|PHL|Canlaon
+Philippinen|PHL|Cotabato
+Philippinen|PHL|Cebu City
+Philippinen|PHL|Cagayan de Oro
+Philippinen|PHL|Cadiz
+Philippinen|PHL|Caloocan
+Philippinen|PHL|Calbayog
+Philippinen|PHL|Dumaguete
+Philippinen|PHL|Dipolog
+Philippinen|PHL|Gingoog
+Philippinen|PHL|General Santos
+Philippinen|PHL|Danao
+Philippinen|PHL|Dagupan
+Philippinen|PHL|Davao City
+Philippinen|PHL|Dapitan
+Philippinen|PHL|Legaspi
+Philippinen|PHL|Lipa
+Philippinen|PHL|Laoag
+Philippinen|PHL|Lapu-Lapu
+Philippinen|PHL|Iriga
+Philippinen|PHL|La Carlota
+Philippinen|PHL|Iligan
+Philippinen|PHL|Iloilo City
+Philippinen|PHL|Ormoc
+Philippinen|PHL|Oroquieta
+Philippinen|PHL|Naga
+Philippinen|PHL|Olongapo
+Philippinen|PHL|Manila
+Philippinen|PHL|Marawi
+Philippinen|PHL|Lucena
+Philippinen|PHL|Mandaue
+Philippinen|PHL|San Carlos, Negros Occidental
+Philippinen|PHL|Roxas
+Philippinen|PHL|Quezon City
+Philippinen|PHL|Puerto Princesa
+Philippinen|PHL|Pasay
+Philippinen|PHL|Palayan
+Philippinen|PHL|Pagadian
+Philippinen|PHL|Ozamis
+Philippinen|PHL|Tagbilaran
+Philippinen|PHL|Tagaytay
+Philippinen|PHL|Tacloban
+Philippinen|PHL|Surigao
+Philippinen|PHL|Silay
+Philippinen|PHL|San Pablo
+Philippinen|PHL|San Jose
+Philippinen|PHL|San Carlos, Pangasinan
+Pitcairninseln|PCN|Pitcairninseln
+Polen|POL|Niederschlesien [Dolnoslaskie]
+Polen|POL|Kujawien und Pommern [Kujawsko-Pomorskie]
+Polen|POL|Lodsch [Lodzkie]
+Polen|POL|Lublin [Lubelskie]
+Polen|POL|Lebus [Lubuskie]
+Polen|POL|Kleinpolen [Malopolskie]
+Polen|POL|Masowien [Mazowieckie]
+Polen|POL|Oppeln [Opolskie]
+Polen|POL|Karpatenvorland [Podkarpackie]
+Polen|POL|Podlachien [Podlaskie]
+Polen|POL|Pommern [Pomorskie]
+Polen|POL|Schlesien [Slaskie]
+Polen|POL|Heilig-Kreuz [Swietokrzyskie]
+Polen|POL|Ermland und Masuren [Warminsko-Mazurskie]
+Polen|POL|Großpolen [Wielkopolskie]
+Polen|POL|Westpommern [Zachodniopomorskie]
+Portugal|PRT|Aveiro
+Portugal|PRT|Beja
+Portugal|PRT|Braga
+Portugal|PRT|Braganca
+Portugal|PRT|Castelo Branco
+Portugal|PRT|Coimbra
+Portugal|PRT|Evora
+Portugal|PRT|Faro
+Portugal|PRT|Madeira
+Portugal|PRT|Guarda
+Portugal|PRT|Leiria
+Portugal|PRT|Lissabon
+Portugal|PRT|Portalegre
+Portugal|PRT|Porto
+Portugal|PRT|Santarem
+Portugal|PRT|Viana do Castelo
+Portugal|PRT|Setubal
+Portugal|PRT|Viseu
+Portugal|PRT|Vila Real
+Portugal|PRT|Azoren
+Puerto Rico|PRI|Puerto Rico
+Ruanda|RWA|Butare
+Ruanda|RWA|Byumba
+Ruanda|RWA|Cyangugu
+Ruanda|RWA|Gikongoro
+Ruanda|RWA|Gisenyi
+Ruanda|RWA|Gitarama
+Ruanda|RWA|Kibungo
+Ruanda|RWA|Kibuye
+Ruanda|RWA|Kigali
+Ruanda|RWA|Ruhengeri
+Rumänien|ROU|Alba
+Rumänien|ROU|Arad
+Rumänien|ROU|Arges
+Rumänien|ROU|Bacau
+Rumänien|ROU|Bihor
+Rumänien|ROU|Bistrita-Nasaud
+Rumänien|ROU|Botosani
+Rumänien|ROU|Braila
+Rumänien|ROU|Brasov
+Rumänien|ROU|Bukarest (Stadt)
+Rumänien|ROU|Buzau
+Rumänien|ROU|Caras-Severin
+Rumänien|ROU|Cluj
+Rumänien|ROU|Constanta
+Rumänien|ROU|Covasna
+Rumänien|ROU|Dolj
+Rumänien|ROU|Dambovita
+Rumänien|ROU|Gorj
+Rumänien|ROU|Galati
+Rumänien|ROU|Hunedoara
+Rumänien|ROU|Harghita
+Rumänien|ROU|Iasi
+Rumänien|ROU|Ialomita
+Rumänien|ROU|Mehedinti
+Rumänien|ROU|Maramures
+Rumänien|ROU|Neamt
+Rumänien|ROU|Mures
+Rumänien|ROU|Prahova
+Rumänien|ROU|Olt
+Rumänien|ROU|Satu Mare
+Rumänien|ROU|Salaj
+Rumänien|ROU|Teleorman
+Rumänien|ROU|Timis
+Rumänien|ROU|Sibiu
+Rumänien|ROU|Suceava
+Rumänien|ROU|Valcea
+Rumänien|ROU|Vrancea
+Rumänien|ROU|Tulcea
+Rumänien|ROU|Vaslui
+Rumänien|ROU|Calarasi
+Rumänien|ROU|Giurgiu
+Russische Föderation|RUS|Adygeya (Republik)
+Russische Föderation|RUS|Aginer Burjaten
+Russische Föderation|RUS|Altay (Republik)
+Russische Föderation|RUS|Altay (Region)
+Russische Föderation|RUS|Amur
+Russische Föderation|RUS|Archangelsk
+Russische Föderation|RUS|Astrachan
+Russische Föderation|RUS|Bashkortostan (Republik)
+Russische Föderation|RUS|Belgorod
+Russische Föderation|RUS|Brjansk
+Russische Föderation|RUS|Buryatiya
+Russische Föderation|RUS|Tschetschenien (Republik)
+Russische Föderation|RUS|Chelyabinskaya
+Russische Föderation|RUS|Tschita
+Russische Föderation|RUS|Chakassien (Republik)
+Russische Föderation|RUS|Dagestan (Republik)
+Russische Föderation|RUS|Tschuwaschien (Republik)
+Russische Föderation|RUS|Inguschetien (Republik)
+Russische Föderation|RUS|Ewenken
+Russische Föderation|RUS|Ivanowo
+Russische Föderation|RUS|Irkutsk
+Russische Föderation|RUS|Kaliningrad
+Russische Föderation|RUS|Kabardino-Balkarien (Republik)
+Russische Föderation|RUS|Kaluga
+Russische Föderation|RUS|Kalmykien (Republik)
+Russische Föderation|RUS|Karatschai-Tscherkessien (Republik)
+Russische Föderation|RUS|Kamtschatka
+Russische Föderation|RUS|Kemerowo
+Russische Föderation|RUS|Karelien (Republik)
+Russische Föderation|RUS|Khakasiya
+Russische Föderation|RUS|Chabarowsk
+Russische Föderation|RUS|Komi (Republik)
+Russische Föderation|RUS|Komi-Permjaken
+Russische Föderation|RUS|Chanten & Mansen (autonom. Region)
+Russische Föderation|RUS|Kirow
+Russische Föderation|RUS|Krasnodar
+Russische Föderation|RUS|Krasnojarsk
+Russische Föderation|RUS|Korjaken
+Russische Föderation|RUS|Kostroma
+Russische Föderation|RUS|Leningrad
+Russische Föderation|RUS|Lipezk
+Russische Föderation|RUS|Kurgan
+Russische Föderation|RUS|Kursk
+Russische Föderation|RUS|Mordwinien (Republik)
+Russische Föderation|RUS|Moskau (Region)
+Russische Föderation|RUS|Magadan
+Russische Föderation|RUS|Mariy-El (Republik)
+Russische Föderation|RUS|Nischni-Nowgorod
+Russische Föderation|RUS|Nenzen
+Russische Föderation|RUS|Murmansk
+Russische Föderation|RUS|Moskau (Stadt)
+Russische Föderation|RUS|Orenburg
+Russische Föderation|RUS|Omsk
+Russische Föderation|RUS|Nowosibirsk
+Russische Föderation|RUS|Nowgorod
+Russische Föderation|RUS|Primorje
+Russische Föderation|RUS|Perm
+Russische Föderation|RUS|Pensa
+Russische Föderation|RUS|Orjol
+Russische Föderation|RUS|Yakutsk (Republik)
+Russische Föderation|RUS|Rjassan
+Russische Föderation|RUS|Rostow
+Russische Föderation|RUS|Pskow
+Russische Föderation|RUS|Severnaya
+Russische Föderation|RUS|Smolensk
+Russische Föderation|RUS|Stawropol
+Russische Föderation|RUS|Swerdlowsk
+Russische Föderation|RUS|Sachalin
+Russische Föderation|RUS|Samara
+Russische Föderation|RUS|Sankt-Peterburg
+Russische Föderation|RUS|Saratow
+Russische Föderation|RUS|Tula
+Russische Föderation|RUS|Twer
+Russische Föderation|RUS|Tjumen
+Russische Föderation|RUS|Tuwa (Republik)
+Russische Föderation|RUS|Tambow
+Russische Föderation|RUS|Tatarstan (Republik)
+Russische Föderation|RUS|Taimyr
+Russische Föderation|RUS|Tomsk
+Russische Föderation|RUS|Wologoda
+Russische Föderation|RUS|Wolgograd
+Russische Föderation|RUS|Yamal-Nenzen
+Russische Föderation|RUS|Woronesch
+Russische Föderation|RUS|Uljanowsk
+Russische Föderation|RUS|Udmurtien
+Russische Föderation|RUS|Wladimir
+Russische Föderation|RUS|Ostossetien (Republik)
+Russische Föderation|RUS|Yevreyskaya
+Russische Föderation|RUS|Jaroslaw
+Réunion|REU|Réunion
+Saint-Pierre und Miquelon|SPM|Saint-Pierre und Miquelon
+Salomonen|SLB|Malaita
+Salomonen|SLB|Western
+Salomonen|SLB|Central
+Salomonen|SLB|Guadalcanal
+Salomonen|SLB|Isabel
+Salomonen|SLB|Makira
+Salomonen|SLB|Temotu
+Sambia|ZMB|Western
+Sambia|ZMB|Central
+Sambia|ZMB|Eastern
+Sambia|ZMB|Luapula
+Sambia|ZMB|Northern
+Sambia|ZMB|North-Western
+Sambia|ZMB|Southern
+Sambia|ZMB|Copperbelt
+Sambia|ZMB|Lusaka
+Samoa|WSM|A`ana
+Samoa|WSM|Aiga-i-le-Tai
+Samoa|WSM|Atua
+Samoa|WSM|Fa`asaleleaga
+Samoa|WSM|Gaga`emauga
+Samoa|WSM|Va`a-o-Fonoti
+Samoa|WSM|Gagaifomauga
+Samoa|WSM|Palauli
+Samoa|WSM|Satupa`itea
+Samoa|WSM|Tuamasaga
+Samoa|WSM|Vaisigano
+San Marino|SMR|Acquaviva
+San Marino|SMR|Chiesanuova
+San Marino|SMR|Domagnano
+San Marino|SMR|Faetano
+San Marino|SMR|Fiorentino
+San Marino|SMR|Borgo Maggiore
+San Marino|SMR|San Marino (Stadt)
+San Marino|SMR|Monte Giardino
+San Marino|SMR|Serravalle
+Saudi-Arabien|SAU|Al Bahah
+Saudi-Arabien|SAU|Al Madinah
+Saudi-Arabien|SAU|Ash Sharqiyah
+Saudi-Arabien|SAU|Al Qasim
+Saudi-Arabien|SAU|Ar Riyad
+Saudi-Arabien|SAU|`Asir
+Saudi-Arabien|SAU|Ha'il
+Saudi-Arabien|SAU|Makkah
+Saudi-Arabien|SAU|Al Hudud ash Shamaliyah
+Saudi-Arabien|SAU|Najran
+Saudi-Arabien|SAU|Jizan
+Saudi-Arabien|SAU|Tabuk
+Saudi-Arabien|SAU|Al Jawf
+Schweden|SWE|Blekinge
+Schweden|SWE|Göteborg
+Schweden|SWE|Gotland
+Schweden|SWE|Halland
+Schweden|SWE|Jämtland
+Schweden|SWE|Jönköping
+Schweden|SWE|Kalmar
+Schweden|SWE|Dalarna
+Schweden|SWE|Kronoberg
+Schweden|SWE|Norrbotten
+Schweden|SWE|Örebro
+Schweden|SWE|Östergötland
+Schweden|SWE|Södermanland
+Schweden|SWE|Uppsala
+Schweden|SWE|Värmland
+Schweden|SWE|Västernorrland
+Schweden|SWE|Västerbotten
+Schweden|SWE|Stockholm
+Schweden|SWE|Västmannsland
+Schweden|SWE|Västra Götaland
+Schweden|SWE|Schonen [Skåne]
+Schweden|SWE|Gävleborg
+Schweiz|CHE|Aargau
+Schweiz|CHE|Ausser-Rhoden
+Schweiz|CHE|Basel-Landschaft
+Schweiz|CHE|Basel-Stadt
+Schweiz|CHE|Bern
+Schweiz|CHE|Freiburg
+Schweiz|CHE|Genf
+Schweiz|CHE|Glarus
+Schweiz|CHE|Graubünden
+Schweiz|CHE|Inner-Rhoden
+Schweiz|CHE|Luzern
+Schweiz|CHE|Neuenburg
+Schweiz|CHE|Nidwalden
+Schweiz|CHE|Obwalden
+Schweiz|CHE|Sankt Gallen
+Schweiz|CHE|Schwyz
+Schweiz|CHE|Schaffhausen
+Schweiz|CHE|Thurgau
+Schweiz|CHE|Solothurn
+Schweiz|CHE|Uri
+Schweiz|CHE|Tessin
+Schweiz|CHE|Waadt
+Schweiz|CHE|Wallis
+Schweiz|CHE|Zürich
+Schweiz|CHE|Zug
+Schweiz|CHE|Jura
+Senegal|SEN|Dakar
+Senegal|SEN|Diourbel
+Senegal|SEN|Saint-Louis
+Senegal|SEN|Tambacounda
+Senegal|SEN|Thies
+Senegal|SEN|Louga
+Senegal|SEN|Fatick
+Senegal|SEN|Kaolack
+Senegal|SEN|Kolda
+Senegal|SEN|Ziguinchor
+Serbien|SRB|Bezirk Belgrad
+Serbien|SRB|Bor
+Serbien|SRB|Branicevo
+Serbien|SRB|Jablanica
+Serbien|SRB|Kolubara
+Serbien|SRB|Macva
+Serbien|SRB|Moravica
+Serbien|SRB|Nisava
+Serbien|SRB|Pcinja
+Serbien|SRB|Pirot
+Serbien|SRB|Podunavlje
+Serbien|SRB|Pomoravlje
+Serbien|SRB|Raska
+Serbien|SRB|Rasina
+Serbien|SRB|Sumadija
+Serbien|SRB|Zajecar
+Serbien|SRB|Toplica
+Serbien|SRB|Vojvodina
+Serbien|SRB|Zlatibor
+Seychellen|SYC|Anse aux Pins
+Seychellen|SYC|Anse Boileau
+Seychellen|SYC|Anse Etoile
+Seychellen|SYC|Anse Louis
+Seychellen|SYC|Anse Royale
+Seychellen|SYC|Baie Lazare
+Seychellen|SYC|Baie Sainte Anne
+Seychellen|SYC|Beau Vallon
+Seychellen|SYC|Bel Air
+Seychellen|SYC|Bel Ombre
+Seychellen|SYC|Cascade
+Seychellen|SYC|Glacis
+Seychellen|SYC|Grand' Anse (Mahe)
+Seychellen|SYC|Grand' Anse (Praslin)
+Seychellen|SYC|La Digue
+Seychellen|SYC|Mont Buxton
+Seychellen|SYC|La Riviere Anglaise
+Seychellen|SYC|Plaisance
+Seychellen|SYC|Mont Fleuri
+Seychellen|SYC|Port Glaud
+Seychellen|SYC|Pointe La Rue
+Seychellen|SYC|Takamaka
+Seychellen|SYC|Saint Louis
+Sierra Leone|SLE|Eastern
+Sierra Leone|SLE|Northern
+Sierra Leone|SLE|Southern
+Sierra Leone|SLE|Western Area
+Simbabwe|ZWE|Manicaland
+Simbabwe|ZWE|Midlands
+Simbabwe|ZWE|Mashonaland Central
+Simbabwe|ZWE|Mashonaland East
+Simbabwe|ZWE|Mashonaland West
+Simbabwe|ZWE|Matabeleland North
+Simbabwe|ZWE|Matabeleland South
+Simbabwe|ZWE|Masvingo
+Singapur|SGP|Singapur
+Slowakei|SVK|Banskobystricky
+Slowakei|SVK|Bratislava (Stadt)
+Slowakei|SVK|Kosicky
+Slowakei|SVK|Nitriansky
+Slowakei|SVK|Presovsky
+Slowakei|SVK|Trenciansky
+Slowakei|SVK|Trnavsky
+Slowakei|SVK|Zilinsky
+Slowenien|SVN|Maribor
+Slowenien|SVN|Bled
+Slowenien|SVN|Izola
+Slowenien|SVN|Moravske Toplice
+Slowenien|SVN|Celje
+Slowenien|SVN|Notranjska
+Slowenien|SVN|Novo Mesto
+Slowenien|SVN|Obalno-Kraska
+Slowenien|SVN|Koper
+Slowenien|SVN|Osrednja Slovenija
+Slowenien|SVN|Podravska
+Slowenien|SVN|Pomurkska
+Slowenien|SVN|Posavska
+Slowenien|SVN|Murska Sobota
+Slowenien|SVN|Savinjska
+Slowenien|SVN|Zasavska
+Slowenien|SVN|Dolenjska
+Slowenien|SVN|Gorensjska
+Slowenien|SVN|Ljubljana
+Slowenien|SVN|Goriska
+Slowenien|SVN|Koroska
+Somalia|SOM|Bakool
+Somalia|SOM|Banaadir
+Somalia|SOM|Bari
+Somalia|SOM|Bay
+Somalia|SOM|Galguduud
+Somalia|SOM|Gedo
+Somalia|SOM|Hiiraan
+Somalia|SOM|Jubbada Dhexe
+Somalia|SOM|Jubbada Hoose
+Somalia|SOM|Mudug
+Somalia|SOM|Nugaal
+Somalia|SOM|Sanaag
+Somalia|SOM|Shabeellaha Dhexe
+Somalia|SOM|Shabeellaha Hoose
+Somalia|SOM|Togdheer
+Somalia|SOM|Woqooyi Galbeed
+Spanien|ESP|La Rioja
+Spanien|ESP|Madrid
+Spanien|ESP|Murcia
+Spanien|ESP|Navarra
+Spanien|ESP|Asturien
+Spanien|ESP|Kantabrien
+Spanien|ESP|Andalusien
+Spanien|ESP|Aragonien
+Spanien|ESP|Kastilien-La Mancha
+Spanien|ESP|Kastilien Leon
+Spanien|ESP|Katalonien
+Spanien|ESP|Extremadura
+Spanien|ESP|Galicien
+Spanien|ESP|Valencia
+Spanien|ESP|Pais Vasco
+Spanien|ESP|Ibiza
+Spanien|ESP|Mallorca
+Spanien|ESP|Formentera
+Spanien|ESP|Menorca
+Spanien|ESP|Gran Canaria
+Spanien|ESP|Teneriffa
+Spanien|ESP|Lanzarote
+Spanien|ESP|La Palma
+Spanien|ESP|Gomera
+Spanien|ESP|Fuerteventura
+Spanien|ESP|Hierro
+Sri Lanka|LKA|Amparai
+Sri Lanka|LKA|Anuradhapura
+Sri Lanka|LKA|Badulla
+Sri Lanka|LKA|Batticaloa
+Sri Lanka|LKA|Galle
+Sri Lanka|LKA|Hambantota
+Sri Lanka|LKA|Kalutara
+Sri Lanka|LKA|Kandy
+Sri Lanka|LKA|Kegalla
+Sri Lanka|LKA|Kurunegala
+Sri Lanka|LKA|Matale
+Sri Lanka|LKA|Matara
+Sri Lanka|LKA|Moneragala
+Sri Lanka|LKA|Nuwara Eliya
+Sri Lanka|LKA|Polonnaruwa
+Sri Lanka|LKA|Ratnapura
+Sri Lanka|LKA|Puttalam
+Sri Lanka|LKA|Colombo
+Sri Lanka|LKA|Trincomalee
+Sri Lanka|LKA|Jaffna
+Sri Lanka|LKA|Gampaha
+Sri Lanka|LKA|Mullaittivu
+Sri Lanka|LKA|Mannar
+Sri Lanka|LKA|Vavuniya
+St. Helena|SHN|Ascension
+St. Helena|SHN|Saint Helena
+St. Helena|SHN|Tristan da Cunha
+St. Kitts und Nevis|KNA|Christ Church Nichola Town
+St. Kitts und Nevis|KNA|Saint Anne Sandy Point
+St. Kitts und Nevis|KNA|Saint George Basseterre
+St. Kitts und Nevis|KNA|Saint George Gingerland
+St. Kitts und Nevis|KNA|Saint James Windward
+St. Kitts und Nevis|KNA|Saint John Capisterre
+St. Kitts und Nevis|KNA|Saint John Figtree
+St. Kitts und Nevis|KNA|Saint Mary Cayon
+St. Kitts und Nevis|KNA|Saint Paul Capisterre
+St. Kitts und Nevis|KNA|Saint Paul Charlestown
+St. Kitts und Nevis|KNA|Saint Peter Basseterre
+St. Kitts und Nevis|KNA|Saint Thomas Lowland
+St. Kitts und Nevis|KNA|Saint Thomas Middle Island
+St. Kitts und Nevis|KNA|Trinity Palmetto Point
+St. Lucia|LCA|Anse-la-Raye
+St. Lucia|LCA|Dauphin
+St. Lucia|LCA|Castries
+St. Lucia|LCA|Choiseul
+St. Lucia|LCA|Dennery
+St. Lucia|LCA|Gros-Islet
+St. Lucia|LCA|Laborie
+St. Lucia|LCA|Micoud
+St. Lucia|LCA|Soufriere
+St. Lucia|LCA|Vieux-Fort
+St. Lucia|LCA|Praslin
+St. Vincent und die Grenadinen|VCT|Charlotte
+St. Vincent und die Grenadinen|VCT|Saint Andrew
+St. Vincent und die Grenadinen|VCT|Saint David
+St. Vincent und die Grenadinen|VCT|Saint George
+St. Vincent und die Grenadinen|VCT|Saint Patrick
+St. Vincent und die Grenadinen|VCT|Grenadines
+Sudan|SDN|Al Khartum
+Sudan|SDN|Aïali an Nil
+Sudan|SDN|Al Bahr al Ahmar
+Sudan|SDN|Al Buhayrat
+Sudan|SDN|Al Jazirah
+Sudan|SDN|Al Qadarif
+Sudan|SDN|Al Wahdah
+Sudan|SDN|An Nil al Abyad
+Sudan|SDN|An Nil al Azraq
+Sudan|SDN|Ash Shamaliyah
+Sudan|SDN|Bahr al Jabal
+Sudan|SDN|Gharb al Istiwaïiyah
+Sudan|SDN|Gharb Bahr al Ghazal
+Sudan|SDN|Gharb Darfur
+Sudan|SDN|Gharb Kurdufan
+Sudan|SDN|Janub Kurdufan
+Sudan|SDN|Janub Darfur
+Sudan|SDN|Kassala
+Sudan|SDN|Junqali
+Sudan|SDN|Shamal Bahr al Ghazal
+Sudan|SDN|Nahr an Nil
+Sudan|SDN|Shamal Kurdufan
+Sudan|SDN|Shamal Darfur
+Sudan|SDN|Sinnar
+Sudan|SDN|Sharq al Istiwaïiyah
+Sudan|SDN|Warab
+Suriname|SUR|Brokopondo
+Suriname|SUR|Commewijne
+Suriname|SUR|Coronie
+Suriname|SUR|Marowijne
+Suriname|SUR|Nickerie
+Suriname|SUR|Para
+Suriname|SUR|Paramaribo
+Suriname|SUR|Saramacca
+Suriname|SUR|Sipaliwini
+Suriname|SUR|Wanica
+Svalbard und Jan Mayen|SJM|Svalbard und Jan Mayen
+Swasiland|SWZ|Hhohho
+Swasiland|SWZ|Lubombo
+Swasiland|SWZ|Manzini
+Swasiland|SWZ|Shiselweni
+Swasiland|SWZ|Praslin
+Syrien|SYR|Al Hasakah
+Syrien|SYR|Al Ladhiqiyah
+Syrien|SYR|Al Qunaytirah
+Syrien|SYR|Ar Raqqah
+Syrien|SYR|As Suwayda'
+Syrien|SYR|Dar`a
+Syrien|SYR|Dayr az Zawr
+Syrien|SYR|Rif Dimashq
+Syrien|SYR|Halab
+Syrien|SYR|Hamah
+Syrien|SYR|Hims
+Syrien|SYR|Idlib
+Syrien|SYR|Dimashq
+Syrien|SYR|Tartus
+São Tomé und Príncipe|STP|Principe
+São Tomé und Príncipe|STP|Sao Tome
+Südafrika|ZAF|KwaZulu-Natal
+Südafrika|ZAF|Free State
+Südafrika|ZAF|Eastern Cape
+Südafrika|ZAF|Gauteng
+Südafrika|ZAF|Mpumalanga
+Südafrika|ZAF|Northern Cape
+Südafrika|ZAF|Northern Province
+Südafrika|ZAF|North-West
+Südafrika|ZAF|Western Cape
+Südkorea|KOR|Cheju-do
+Südkorea|KOR|Cholla-bukto
+Südkorea|KOR|Ch'ungch'ong-bukto
+Südkorea|KOR|Kangwon-do
+Südkorea|KOR|Pusan-gwangyoksi
+Südkorea|KOR|Soul-t'ukpyolsi
+Südkorea|KOR|Inch’on-gwangyoksi
+Südkorea|KOR|Kyonggi-do
+Südkorea|KOR|Kyongsang-bukto
+Südkorea|KOR|Taegu-gwangyoksi
+Südkorea|KOR|Cholla-namdo
+Südkorea|KOR|Ch'ungch'ong-namdo
+Südkorea|KOR|Kwangju-gwangyoksi
+Südkorea|KOR|Taejon-gwangyoksi
+Südkorea|KOR|Kyongsang-namdo
+Südkorea|KOR|Ulsan-gwangyoksi
+Tadschikistan|TJK|Kuhistoni Badakhshon
+Tadschikistan|TJK|Khatlon
+Tadschikistan|TJK|Leninobod
+Taiwan|TWN|Fu-chien
+Taiwan|TWN|Kao-hsiung
+Taiwan|TWN|T'ai-pei
+Taiwan|TWN|T'ai-wan
+Tansania|TZA|Arusha
+Tansania|TZA|Pwani
+Tansania|TZA|Dodoma
+Tansania|TZA|Iringa
+Tansania|TZA|Kigoma
+Tansania|TZA|Kilimanjaro
+Tansania|TZA|Lindi
+Tansania|TZA|Mara
+Tansania|TZA|Mbeya
+Tansania|TZA|Morogoro
+Tansania|TZA|Mtwara
+Tansania|TZA|Mwanza
+Tansania|TZA|Pemba North
+Tansania|TZA|Ruvuma
+Tansania|TZA|Shinyanga
+Tansania|TZA|Tabora
+Tansania|TZA|Singida
+Tansania|TZA|Kagera
+Tansania|TZA|Tanga
+Tansania|TZA|Zanzibar Central/South
+Tansania|TZA|Pemba South
+Tansania|TZA|Dar es Salaam
+Tansania|TZA|Zanzibar North
+Tansania|TZA|Zanzibar Urban/West
+Tansania|TZA|Rukwa
+Thailand|THA|Mae Hong Son
+Thailand|THA|Chiang Mai
+Thailand|THA|Chiang Rai
+Thailand|THA|Nan
+Thailand|THA|Lamphun
+Thailand|THA|Lampang
+Thailand|THA|Phrae
+Thailand|THA|Tak
+Thailand|THA|Sukhothai
+Thailand|THA|Uttaradit
+Thailand|THA|Kamphaeng Phet
+Thailand|THA|Phitsanulok
+Thailand|THA|Phichit
+Thailand|THA|Phetchabun
+Thailand|THA|Uthai Thani
+Thailand|THA|Nong Khai
+Thailand|THA|Nakhon Sawan
+Thailand|THA|Sakon Nakhon
+Thailand|THA|Loei
+Thailand|THA|Kalasin
+Thailand|THA|Khon Kaen
+Thailand|THA|Roi Et
+Thailand|THA|Maha Sarakham
+Thailand|THA|Nakhon Ratchasima
+Thailand|THA|Chaiyaphum
+Thailand|THA|Surin
+Thailand|THA|Buriram
+Thailand|THA|Narathiwat
+Thailand|THA|Sisaket
+Thailand|THA|Sing Buri
+Thailand|THA|Chai Nat
+Thailand|THA|Phra Nakhon Si Ayutthaya
+Thailand|THA|Saraburi
+Thailand|THA|Lop Buri
+Thailand|THA|Ang Thong
+Thailand|THA|Krung Thep
+Thailand|THA|Phayao
+Thailand|THA|Nonthaburi
+Thailand|THA|Pathum Thani
+Thailand|THA|Chachoengsao
+Thailand|THA|Pattaya
+Thailand|THA|Samut Prakan
+Thailand|THA|Nakhon Nayok
+Thailand|THA|Trat
+Thailand|THA|Kanchanaburi
+Thailand|THA|Rayong
+Thailand|THA|Chanthaburi
+Thailand|THA|Samut Songkhram
+Thailand|THA|Nakhon Pathom
+Thailand|THA|Ratchaburi
+Thailand|THA|Suphan Buri
+Thailand|THA|Chumphon
+Thailand|THA|Prachuap Khiri Khan
+Thailand|THA|Phetchaburi
+Thailand|THA|Samut Sakhon
+Thailand|THA|Phuket
+Thailand|THA|Phangnga
+Thailand|THA|Surat Thani
+Thailand|THA|Ranong
+Thailand|THA|Phatthalung
+Thailand|THA|Trang
+Thailand|THA|Nakhon Si Thammarat
+Thailand|THA|Krabi
+Thailand|THA|Yasothon
+Thailand|THA|Nakhon Phanom
+Thailand|THA|Prachin Buri
+Thailand|THA|Ubon Ratchathani
+Thailand|THA|Satun
+Thailand|THA|Songkhla
+Thailand|THA|Pattani
+Thailand|THA|Yala
+Thailand|THA|Sa Kaeo
+Thailand|THA|Kho Samui
+Thailand|THA|Chon Buri
+Thailand|THA|Udon Thani
+Thailand|THA|Amnat Charoen
+Thailand|THA|Mukdahan
+Thailand|THA|Nong Bua Lamphu
+Togo|TGO|Amlame
+Togo|TGO|Aneho
+Togo|TGO|Atakpame
+Togo|TGO|Bafilo
+Togo|TGO|Bassar
+Togo|TGO|Dapaong
+Togo|TGO|Kante
+Togo|TGO|Klouto
+Togo|TGO|Lama-Kara
+Togo|TGO|Lome
+Togo|TGO|Mango
+Togo|TGO|Niamtougou
+Togo|TGO|Notse
+Togo|TGO|Kpagouda
+Togo|TGO|Badou
+Togo|TGO|Tabligbo
+Togo|TGO|Sotouboua
+Togo|TGO|Tchamba
+Togo|TGO|Tsevie
+Togo|TGO|Vogan
+Togo|TGO|Tchaoudjo
+Tokelau|TKL|Tokelau
+Tonga|TON|Ha`apai
+Tonga|TON|Tongatapu
+Tonga|TON|Vava`u
+Trinidad und Tobago|TTO|Arima
+Trinidad und Tobago|TTO|Caroni
+Trinidad und Tobago|TTO|Mayaro
+Trinidad und Tobago|TTO|Nariva
+Trinidad und Tobago|TTO|Port-of-Spain
+Trinidad und Tobago|TTO|Saint Andrew
+Trinidad und Tobago|TTO|Saint David
+Trinidad und Tobago|TTO|Saint George
+Trinidad und Tobago|TTO|Saint Patrick
+Trinidad und Tobago|TTO|San Fernando
+Trinidad und Tobago|TTO|Tobago
+Trinidad und Tobago|TTO|Victoria
+Tschad|TCD|Batha
+Tschad|TCD|Biltine
+Tschad|TCD|Borkou-Ennedi-Tibesti
+Tschad|TCD|Chari-Baguirmi
+Tschad|TCD|Guera
+Tschad|TCD|Kanem
+Tschad|TCD|Lac
+Tschad|TCD|Logone Occidental
+Tschad|TCD|Logone Oriental
+Tschad|TCD|Mayo-Kebbi
+Tschad|TCD|Moyen-Chari
+Tschad|TCD|Ouaddai
+Tschad|TCD|Salamat
+Tschad|TCD|Tandjile
+Tschechische Republik|CZE|Prag (Region)
+Tschechische Republik|CZE|Brno (Region)
+Tschechische Republik|CZE|Budweis (Region)
+Tschechische Republik|CZE|Iglau (Region)
+Tschechische Republik|CZE|Karlsbad (Region)
+Tschechische Republik|CZE|Königgratz (Region)
+Tschechische Republik|CZE|Reichenberg (Region)
+Tschechische Republik|CZE|Olmütz (Region)
+Tschechische Republik|CZE|Ostrava (Region)
+Tschechische Republik|CZE|Pardubicky
+Tschechische Republik|CZE|Pilsen (Region)
+Tschechische Republik|CZE|Stredocesky
+Tschechische Republik|CZE|Ustecky
+Tschechische Republik|CZE|Zlin (Region)
+Tunesien|TUN|Al Qasrayn
+Tunesien|TUN|Al Qayrawan
+Tunesien|TUN|Jundubah
+Tunesien|TUN|Qafsah
+Tunesien|TUN|Al Kaf
+Tunesien|TUN|Al Mahdiyah
+Tunesien|TUN|Al Munastir
+Tunesien|TUN|Bajah
+Tunesien|TUN|Banzart
+Tunesien|TUN|Nabul
+Tunesien|TUN|Silyanah
+Tunesien|TUN|Susah
+Tunesien|TUN|Aryanah
+Tunesien|TUN|Bin `Arus
+Tunesien|TUN|Madanin
+Tunesien|TUN|Qibili
+Tunesien|TUN|Qabis
+Tunesien|TUN|Sidi Bu Zayd
+Tunesien|TUN|Safaqis
+Tunesien|TUN|Tawzar
+Tunesien|TUN|Tatawin
+Tunesien|TUN|Zaghwan
+Tunesien|TUN|Tunis
+Tunesien|TUN|Insel Djerba
+Turkmenistan|TKM|Ahal
+Turkmenistan|TKM|Balkan
+Turkmenistan|TKM|Dashhowuz
+Turkmenistan|TKM|Lebap
+Turkmenistan|TKM|Mary
+Turks- und Caicosinseln|TCA|Turks- und Caicosinseln
+Tuvalu|TUV|Tuvalu
+Türkei|TUR|Südost-Anatolien - Adiyaman
+Türkei|TUR|Zentral-Anatolien - Afyon
+Türkei|TUR|Ost-Anatolien - Agri
+Türkei|TUR|Schwarzes Meer - Amasya
+Türkei|TUR|Antalya
+Türkei|TUR|Schwarzes Meer - Artvin
+Türkei|TUR|Ägäisches Meer - Aydin
+Türkei|TUR|Marmara - Balikesir
+Türkei|TUR|Marmara - Bilecik
+Türkei|TUR|Ost-Anatolien - Bingol
+Türkei|TUR|Ost-Anatolien - Bitlis
+Türkei|TUR|Schwarzes Meer - Bolu
+Türkei|TUR|Mediterranean - Burdur
+Türkei|TUR|Marmara - Bursa
+Türkei|TUR|Marmara - Canakkale
+Türkei|TUR|Ägäisches Meer - Denizli
+Türkei|TUR|Schwarzes Meer - Corum
+Türkei|TUR|Marmara - Edirne
+Türkei|TUR|Südost-Anatolien - Diyarbakir
+Türkei|TUR|Ost-Anatolien - Erzincan
+Türkei|TUR|Ost-Anatolien - Elazig
+Türkei|TUR|Zentral-Anatolien - Eskisehir
+Türkei|TUR|Ost-Anatolien - Erzurum
+Türkei|TUR|Mediterranean - Hatay
+Türkei|TUR|Schwarzes Meer - Giresun
+Türkei|TUR|Mediterranean - Isparta
+Türkei|TUR|Mediterranean - Mersin
+Türkei|TUR|Izmir
+Türkei|TUR|Istanbul
+Türkei|TUR|Zentral-Anatolien - Kayseri
+Türkei|TUR|Schwarzes Meer - Kastamonu
+Türkei|TUR|Marmara - Kocaeli
+Türkei|TUR|Zentral-Anatolien - Kutahya
+Türkei|TUR|Marmara - Kirklareli
+Türkei|TUR|Zentral-Anatolien - Kirsehir
+Türkei|TUR|Zentral-Anatolien - Kahramanmaras
+Türkei|TUR|Bodrum
+Türkei|TUR|Ost-Anatolien - Malatya
+Türkei|TUR|Ägäisches Meer - Manisa
+Türkei|TUR|Schwarzes Meer - Ordu
+Türkei|TUR|Schwarzes Meer - Rize
+Türkei|TUR|Ost-Anatolien - Mus
+Türkei|TUR|Zentral-Anatolien - Nevsehir
+Türkei|TUR|Schwarzes Meer - Sinop
+Türkei|TUR|Zentral-Anatolien - Sivas
+Türkei|TUR|Marmara - Sakarya
+Türkei|TUR|Schwarzes Meer - Samsun
+Türkei|TUR|Ost-Anatolien - Tunceli
+Türkei|TUR|Schwarzes Meer - Trabzon
+Türkei|TUR|Schwarzes Meer - Tokat
+Türkei|TUR|Marmara - Tekirdag
+Türkei|TUR|Zentral-Anatolien - Yozgat
+Türkei|TUR|Ost-Anatolien - Van
+Türkei|TUR|Zentral-Anatolien - Usak
+Türkei|TUR|Südost-Anatolien - Urfa
+Türkei|TUR|Zentral-Anatolien - Konya
+Türkei|TUR|Ost-Anatolien - Hakkari
+Türkei|TUR|Schwarzes Meer - Gumushane
+Türkei|TUR|Ankara
+Türkei|TUR|Zentral-Anatolien - Aksaray
+Türkei|TUR|Südost-Anatolien - Siirt
+Türkei|TUR|Zentral-Anatolien - Nigde
+Türkei|TUR|Südost-Anatolien - Mardin
+Türkei|TUR|Südost-Anatolien - Sirnak
+Türkei|TUR|Mediterranean - Adana
+Türkei|TUR|Zentral-Anatolien - Cankiri
+Türkei|TUR|Mediterranean - Gaziantep
+Türkei|TUR|Südost-Anatolien - Batman
+Türkei|TUR|Schwarzes Meer - Bayburt
+Türkei|TUR|Zentral-Anatolien - Karaman
+Türkei|TUR|Zentral-Anatolien - Kirikkale
+Türkei|TUR|Ost-Anatolien - Igdir
+Türkei|TUR|Karabuk
+Türkei|TUR|Mediterranean - Kilis
+Türkei|TUR|Mediterranean - Osmaniye
+Türkei|TUR|Ost-Anatolien - Kars
+Türkei|TUR|Schwarzes Meer - Zonguldak
+Türkei|TUR|Ost-Anatolien - Ardahan
+Türkei|TUR|Schwarzes Meer - Bartin
+Türkei|TUR|Alanya
+Türkei|TUR|Marmara - Yalova
+Türkei|TUR|Ägäisches Meer - Didim Altikum
+Türkei|TUR|Mugla
+USA|USA|Alabama
+USA|USA|Alaska
+USA|USA|Arizona
+USA|USA|Arkansas
+USA|USA|California
+USA|USA|Colorado
+USA|USA|Connecticut
+USA|USA|Delaware
+USA|USA|District of Columbia
+USA|USA|Florida
+USA|USA|Georgia
+USA|USA|Hawaii
+USA|USA|Idaho
+USA|USA|Illinois
+USA|USA|Indiana
+USA|USA|Kansas
+USA|USA|Iowa
+USA|USA|Louisiana
+USA|USA|Kentucky
+USA|USA|Maryland
+USA|USA|Maine
+USA|USA|Michigan
+USA|USA|Massachusetts
+USA|USA|Mississippi
+USA|USA|Minnesota
+USA|USA|Montana
+USA|USA|Missouri
+USA|USA|Nevada
+USA|USA|Nebraska
+USA|USA|New Jersey
+USA|USA|New Hampshire
+USA|USA|North Carolina
+USA|USA|North Dakota
+USA|USA|New Mexico
+USA|USA|New York
+USA|USA|Oregon
+USA|USA|Pennsylvania
+USA|USA|Ohio
+USA|USA|Oklahoma
+USA|USA|South Dakota
+USA|USA|Tennessee
+USA|USA|Rhode Island
+USA|USA|South Carolina
+USA|USA|Vermont
+USA|USA|Virginia
+USA|USA|Texas
+USA|USA|Utah
+USA|USA|Wyoming
+USA|USA|Wisconsin
+USA|USA|West Virginia
+USA|USA|Washington
+Uganda|UGA|Apac
+Uganda|UGA|Arua
+Uganda|UGA|Bundibugyo
+Uganda|UGA|Bushenyi
+Uganda|UGA|Gulu
+Uganda|UGA|Hoima
+Uganda|UGA|Jinja
+Uganda|UGA|Kabale
+Uganda|UGA|Kabarole
+Uganda|UGA|Kalangala
+Uganda|UGA|Kampala
+Uganda|UGA|Kamuli
+Uganda|UGA|Kapchorwa
+Uganda|UGA|Kasese
+Uganda|UGA|Kibale
+Uganda|UGA|Kisoro
+Uganda|UGA|Kiboga
+Uganda|UGA|Kotido
+Uganda|UGA|Kitgum
+Uganda|UGA|Lira
+Uganda|UGA|Kumi
+Uganda|UGA|Mbale
+Uganda|UGA|Masindi
+Uganda|UGA|Moroto
+Uganda|UGA|Mbarara
+Uganda|UGA|Mubende
+Uganda|UGA|Mpigi
+Uganda|UGA|Nebbi
+Uganda|UGA|Mukono
+Uganda|UGA|Pallisa
+Uganda|UGA|Ntungamo
+Uganda|UGA|Adjumani
+Uganda|UGA|Bugiri
+Uganda|UGA|Rakai
+Uganda|UGA|Rukungiri
+Uganda|UGA|Katakwi
+Uganda|UGA|Luwero
+Uganda|UGA|Busia
+Uganda|UGA|Iganga
+Uganda|UGA|Nakasongola
+Uganda|UGA|Sembabule
+Uganda|UGA|Masaka
+Uganda|UGA|Moyo
+Uganda|UGA|Soroti
+Uganda|UGA|Tororo
+Ukraine|UKR|Cherkas'ka
+Ukraine|UKR|Chernihivs'ka
+Ukraine|UKR|Chernivtsi
+Ukraine|UKR|Dnipropetrovs'ka
+Ukraine|UKR|Donets'ka
+Ukraine|UKR|Ivano-Frankivs'ka
+Ukraine|UKR|Kharkivs'ka
+Ukraine|UKR|Khersons'ka
+Ukraine|UKR|Khmel'nyts'ka
+Ukraine|UKR|Kirovohrads'ka
+Ukraine|UKR|Krim (autonome Republik)
+Ukraine|UKR|Kiev (Stadt)
+Ukraine|UKR|Kiev (Region)
+Ukraine|UKR|Luhans'ka
+Ukraine|UKR|Lviv
+Ukraine|UKR|Odessa (Region)
+Ukraine|UKR|Mykolayivs'ka
+Ukraine|UKR|Rivnens'ka
+Ukraine|UKR|Poltavs'ka
+Ukraine|UKR|Sumy
+Ukraine|UKR|Sevastopol (Stadt)
+Ukraine|UKR|Vinnyts'ka
+Ukraine|UKR|Ternopil's'ka
+Ukraine|UKR|Zakarpats'ka
+Ukraine|UKR|Volynlutsk
+Ukraine|UKR|Zhytomyrs'ka
+Ukraine|UKR|Zaporiz'ka
+Ungarn|HUN|Bács-Kiskun
+Ungarn|HUN|Baranya
+Ungarn|HUN|Békés
+Ungarn|HUN|Borsod-Abaúj-Zemplén
+Ungarn|HUN|Budapest (Stadt)
+Ungarn|HUN|Csongrád
+Ungarn|HUN|Debrecen (Stadt)
+Ungarn|HUN|Fejér
+Ungarn|HUN|Gyor-Moson-Sopron
+Ungarn|HUN|Hajdú-Bihar
+Ungarn|HUN|Heves
+Ungarn|HUN|Komárom-Esztergom
+Ungarn|HUN|Miskolc (Stadt)
+Ungarn|HUN|Nógrád
+Ungarn|HUN|Fünfkirchen (Stadt) [Pecs]
+Ungarn|HUN|Somogy
+Ungarn|HUN|Pest
+Ungarn|HUN|Szeged (Stadt)
+Ungarn|HUN|Szabolcs-Szatmár-Bereg
+Ungarn|HUN|Tolna
+Ungarn|HUN|Jász-Nagykun-Szolnok
+Ungarn|HUN|Veszprém
+Ungarn|HUN|Vas
+Ungarn|HUN|Raab (Stadt) [Gyor]
+Ungarn|HUN|Zala
+Ungarn|HUN|Dunaújváros (Stadt)
+Ungarn|HUN|Békéscsaba (Stadt)
+Ungarn|HUN|Hódmezõvásárhely (Stadt)
+Ungarn|HUN|Eger (Stadt)
+Ungarn|HUN|Kecskemét (Stadt)
+Ungarn|HUN|Kaposvar (Stadt)
+Ungarn|HUN|Sopron (Stadt)
+Ungarn|HUN|Stuhlweissenburg (Stadt) [Székesfehérvar]
+Ungarn|HUN|Nagykanizsa (Stadt)
+Ungarn|HUN|Nyíregyháza (Stadt)
+Ungarn|HUN|Tatabánya (Stadt)
+Ungarn|HUN|Veszprem (Stadt)
+Ungarn|HUN|Szolnok (Stadt)
+Ungarn|HUN|Steinamanger (Stadt) [Szombathely]
+Ungarn|HUN|Zalaegerszeg (Stadt)
+Uruguay|URY|Artigas
+Uruguay|URY|Canelones
+Uruguay|URY|Cerro Largo
+Uruguay|URY|Colonia
+Uruguay|URY|Durazno
+Uruguay|URY|Flores
+Uruguay|URY|Florida
+Uruguay|URY|Lavalleja
+Uruguay|URY|Maldonado
+Uruguay|URY|Montevideo
+Uruguay|URY|Paysandu
+Uruguay|URY|Rio Negro
+Uruguay|URY|Rivera
+Uruguay|URY|Rocha
+Uruguay|URY|Salto
+Uruguay|URY|Soriano
+Uruguay|URY|San Jose
+Uruguay|URY|Treinta y Tres
+Uruguay|URY|Tacuarembo
+Usbekistan|UZB|Andijon
+Usbekistan|UZB|Bukhoro
+Usbekistan|UZB|Farghona
+Usbekistan|UZB|Khorazm
+Usbekistan|UZB|Namangan
+Usbekistan|UZB|Nawoiy
+Usbekistan|UZB|Qashqadaryo
+Usbekistan|UZB|Qoraqalpoghiston
+Usbekistan|UZB|Samarqand
+Usbekistan|UZB|Surkhondaryo
+Usbekistan|UZB|Toshkent (Stadt)
+Usbekistan|UZB|Toshkent
+Usbekistan|UZB|Jizzakh
+Usbekistan|UZB|Sirdaryo
+Vanuatu|VUT|Torba
+Vanuatu|VUT|Sanma
+Vanuatu|VUT|Tafea
+Vanuatu|VUT|Malampa
+Vanuatu|VUT|Penama
+Vanuatu|VUT|Shefa
+Vatikanstadt|VAT|Vatikanstadt
+Venezuela|VEN|Amazonas
+Venezuela|VEN|Anzoategui
+Venezuela|VEN|Apure
+Venezuela|VEN|Aragua
+Venezuela|VEN|Barinas
+Venezuela|VEN|Bolivar
+Venezuela|VEN|Carabobo
+Venezuela|VEN|Cojedes
+Venezuela|VEN|Delta Amacuro
+Venezuela|VEN|Falcon
+Venezuela|VEN|Guarico
+Venezuela|VEN|Lara
+Venezuela|VEN|Merida
+Venezuela|VEN|Miranda
+Venezuela|VEN|Monagas
+Venezuela|VEN|Portuguesa
+Venezuela|VEN|Isla Margarita
+Venezuela|VEN|Tachira
+Venezuela|VEN|Sucre
+Venezuela|VEN|Yaracuy
+Venezuela|VEN|Trujillo
+Venezuela|VEN|Dependencias Federales
+Venezuela|VEN|Zulia
+Venezuela|VEN|Vargas
+Venezuela|VEN|Distrito Federal
+Venezuela|VEN|Nueva Esparta
+Vereinigte Arabische Emirate|ARE|Abu Dhabi
+Vereinigte Arabische Emirate|ARE|Ajman
+Vereinigte Arabische Emirate|ARE|Dubai
+Vereinigte Arabische Emirate|ARE|Fujairah
+Vereinigte Arabische Emirate|ARE|Ras Al Khaimah
+Vereinigte Arabische Emirate|ARE|Sharjah
+Vereinigte Arabische Emirate|ARE|Umm Al Quwain
+Vietnam|VNM|Ben Tre
+Vietnam|VNM|Cao Bang
+Vietnam|VNM|Hai Phong
+Vietnam|VNM|Lai Chau
+Vietnam|VNM|Lam Dong
+Vietnam|VNM|Long An
+Vietnam|VNM|Quang Ninh
+Vietnam|VNM|Son La
+Vietnam|VNM|Tay Ninh
+Vietnam|VNM|Thanh Hoa
+Vietnam|VNM|Thai Binh
+Vietnam|VNM|Tien Giang
+Vietnam|VNM|Lang Son
+Vietnam|VNM|An Giang
+Vietnam|VNM|Dac Lac
+Vietnam|VNM|Dong Thap
+Vietnam|VNM|Dong Nai
+Vietnam|VNM|Minh Hai
+Vietnam|VNM|Kien Giang
+Vietnam|VNM|Vinh Phu
+Vietnam|VNM|Song Be
+Vietnam|VNM|Ho Chi Minh
+Vietnam|VNM|Ha Noi
+Vietnam|VNM|Binh Dinh
+Vietnam|VNM|Ba Ria-Vung Tau
+Vietnam|VNM|Can Tho
+Vietnam|VNM|Binh Thuan
+Vietnam|VNM|Ha Tay
+Vietnam|VNM|Ha Giang
+Vietnam|VNM|Hoa Binh
+Vietnam|VNM|Ha Tinh
+Vietnam|VNM|Lao Cai
+Vietnam|VNM|Nam Ha
+Vietnam|VNM|Khanh Hoa
+Vietnam|VNM|Kon Tum
+Vietnam|VNM|Ninh Thuan
+Vietnam|VNM|Phu Yen
+Vietnam|VNM|Nghe An
+Vietnam|VNM|Ninh Binh
+Vietnam|VNM|Bac Kan
+Vietnam|VNM|Bac Lieu
+Vietnam|VNM|Quang Binh
+Vietnam|VNM|Bac Giang
+Vietnam|VNM|Bin Phuoc
+Vietnam|VNM|Ca Mau
+Vietnam|VNM|Bac Ninh
+Vietnam|VNM|Bin Duong
+Vietnam|VNM|Hung Yen
+Vietnam|VNM|Ha Nam
+Vietnam|VNM|Hai Duong
+Vietnam|VNM|Da Nang
+Vietnam|VNM|Thai Nguyen
+Vietnam|VNM|Quang Nam
+Vietnam|VNM|Phu Tho
+Vietnam|VNM|Nam Dinh
+Vietnam|VNM|Vinh Phuc
+Wallis und Futuna|WLF|Wallis und Futuna
+Weihnachtsinsel|CXR|Weihnachtsinsel
+Weißrussland|BLR|Brest
+Weißrussland|BLR|Gomel
+Weißrussland|BLR|Grodno
+Weißrussland|BLR|Minsk (Stadt)
+Weißrussland|BLR|Minsk (Region)
+Weißrussland|BLR|Mogilev
+Weißrussland|BLR|Vitebsk
+Westsahara|ESH|Westsahara
+Zentralafrikanische Republik|CAF|Bamingui-Bangoran
+Zentralafrikanische Republik|CAF|Basse-Kotto
+Zentralafrikanische Republik|CAF|Haute-Kotto
+Zentralafrikanische Republik|CAF|Haute-Sangha
+Zentralafrikanische Republik|CAF|Haut-Mbomou
+Zentralafrikanische Republik|CAF|Kemo-Gribingui
+Zentralafrikanische Republik|CAF|Lobaye
+Zentralafrikanische Republik|CAF|Mbomou
+Zentralafrikanische Republik|CAF|Nana-Mambere
+Zentralafrikanische Republik|CAF|Ouaka
+Zentralafrikanische Republik|CAF|Ouham
+Zentralafrikanische Republik|CAF|Ouham-Pende
+Zentralafrikanische Republik|CAF|Vakaga
+Zentralafrikanische Republik|CAF|Gribingui
+Zentralafrikanische Republik|CAF|Sangha
+Zentralafrikanische Republik|CAF|Bangui
+Zentralafrikanische Republik|CAF|Ombella-Mpoko
+Zypern|CYP|Famagusta
+Zypern|CYP|Kyrenia
+Zypern|CYP|Larnaca
+Zypern|CYP|Lefkosia [Nicosia]
+Zypern|CYP|Lemesos [Limassol]
+Zypern|CYP|Pafos
+Ägypten|EGY|Ad Daqahliyah
+Ägypten|EGY|Al Bahr al Ahmar
+Ägypten|EGY|Al Buhayrah
+Ägypten|EGY|Al Fayyum
+Ägypten|EGY|Al Gharbiyah
+Ägypten|EGY|Al Iskandariyah
+Ägypten|EGY|Al Isma'iliyah
+Ägypten|EGY|Al Jizah
+Ägypten|EGY|Al Minufiyah
+Ägypten|EGY|Al Minya
+Ägypten|EGY|Al Qahirah
+Ägypten|EGY|Al Qalyubiyah
+Ägypten|EGY|Al Wadi al Jadid
+Ägypten|EGY|Ash Sharqiyah
+Ägypten|EGY|As Suways
+Ägypten|EGY|Asyut
+Ägypten|EGY|Aswan
+Ägypten|EGY|Bur Sa'id
+Ägypten|EGY|Bani Suwayf
+Ägypten|EGY|Kafr ash Shaykh
+Ägypten|EGY|Dumyat
+Ägypten|EGY|Qina
+Ägypten|EGY|Matruh
+Ägypten|EGY|Janub Sina'
+Ägypten|EGY|Suhaj
+Ägypten|EGY|Luxor
+Ägypten|EGY|Shamal Sina'
+Äquatorialguinea|GNQ|Annobon
+Äquatorialguinea|GNQ|Bioko Norte
+Äquatorialguinea|GNQ|Bioko Sur
+Äquatorialguinea|GNQ|Centro Sur
+Äquatorialguinea|GNQ|Kie-Ntem
+Äquatorialguinea|GNQ|Litoral
+Äquatorialguinea|GNQ|Wele-Nzas
+Äthiopien|ETH|Adis Abeba
+Äthiopien|ETH|Afar
+Äthiopien|ETH|Amara
+Äthiopien|ETH|Binshangul Gumuz
+Äthiopien|ETH|Dire Dawa
+Äthiopien|ETH|Gambela Hizboch
+Äthiopien|ETH|Hareri Hizb
+Äthiopien|ETH|Oromiya
+Äthiopien|ETH|Sumale
+Äthiopien|ETH|Tigray
+Äthiopien|ETH|YeDebub Biheroch Bihereseboch na Hizboch
+Österreich|AUT|Burgenland
+Österreich|AUT|Kärnten
+Österreich|AUT|Niederösterreich
+Österreich|AUT|Oberösterreich
+Österreich|AUT|Salzburg
+Österreich|AUT|Steiermark
+Österreich|AUT|Tirol
+Österreich|AUT|Vorarlberg
+Österreich|AUT|Wien
