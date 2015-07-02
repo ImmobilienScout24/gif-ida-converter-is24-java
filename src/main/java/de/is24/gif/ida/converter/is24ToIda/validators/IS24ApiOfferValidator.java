@@ -2,7 +2,7 @@ package de.is24.gif.ida.converter.is24ToIda.validators;
 
 import java.util.List;
 
-import de.gifev.ida.converter.sdk.ValidationError;
+import org.zgif.converter.sdk.ValidationError;
 
 /**
  * @author Martin Fluegge

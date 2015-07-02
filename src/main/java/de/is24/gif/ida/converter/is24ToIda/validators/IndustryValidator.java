@@ -2,7 +2,8 @@ package de.is24.gif.ida.converter.is24ToIda.validators;
 
 import java.util.List;
 
-import de.gifev.ida.converter.sdk.ValidationError;
+import org.zgif.converter.sdk.ValidationError;
+
 import de.immobilienscout24.rest.schema.common._1.CommercializationType;
 import de.immobilienscout24.rest.schema.common._1.MarketingType;
 import de.immobilienscout24.rest.schema.offer.realestates._1.Industry;

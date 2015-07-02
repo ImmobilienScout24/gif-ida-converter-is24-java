@@ -3,8 +3,8 @@ package de.is24.gif.ida.converter.is24ToIda.validators;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.gifev.ida.converter.sdk.ValidationError;
-import de.gifev.ida.converter.sdk.impl.Validator;
+import org.zgif.converter.sdk.ValidationError;
+
 import de.immobilienscout24.rest.facades.offer.realestates._1.EnergyCertificateFacade;
 import de.immobilienscout24.rest.schema.common._1.BuildingEnergyRatingType;
 import de.immobilienscout24.rest.schema.common._1.CourtageInfo;
