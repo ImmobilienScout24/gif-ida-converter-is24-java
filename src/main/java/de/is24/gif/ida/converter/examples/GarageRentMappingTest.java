@@ -1,9 +1,10 @@
 package de.is24.gif.ida.converter.examples;
 
+import generated.Unit;
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.zgif.converter.sdk.MapperValidationException;
-import org.zgif.model.subset_4_1.entity.Unit;
 
 import de.immobilienscout24.rest.schema.offer.realestates._1.GarageRent;
 import de.is24.gif.ida.converter.is24ToIda.GarageRent2UnitTransformer;
