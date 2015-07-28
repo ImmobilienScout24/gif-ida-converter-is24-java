@@ -868,7 +868,7 @@ Griechenland|GRC|Makedonien - Kastoria
 Griechenland|GRC|Thessalien - Kardhitsa
 Griechenland|GRC|Ionische Inseln - Kefallinia
 Griechenland|GRC|Makedonien - Kavala
-Griechenland|GRC|Khalkidhiki
+Griechenland|GRC|Chalkidiki - Khalkidhiki
 Griechenland|GRC|Ionische Inseln - Korfu
 Griechenland|GRC|Nord-Agäis - Kos
 Griechenland|GRC|Kreta - Khania
