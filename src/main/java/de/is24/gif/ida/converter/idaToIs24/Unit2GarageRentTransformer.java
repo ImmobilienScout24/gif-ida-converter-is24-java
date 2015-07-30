@@ -1,7 +1,7 @@
 package de.is24.gif.ida.converter.idaToIs24;
 
 import org.zgif.converter.sdk.ITransformContext;
-import org.zgif.model.subset_4_1.entity.Unit;
+import org.zgif.model.node.entity.Property;
 
 import de.immobilienscout24.rest.schema.offer.realestates._1.GarageBuy;
 
@@ -9,10 +9,10 @@ import de.immobilienscout24.rest.schema.offer.realestates._1.GarageBuy;
  * @author Martin Fluegge
  * 
  */
-public class Unit2GarageRentTransformer extends Unit2GarageTransformer<Unit, GarageBuy> {
+public class Unit2GarageRentTransformer extends Unit2GarageTransformer<Property, GarageBuy> {
 
 	@Override
-	protected GarageBuy doTransform(Unit unit, ITransformContext context) {
+	protected GarageBuy doTransform(Property unit, ITransformContext context) {
 
 		GarageBuy garageBuy = new GarageBuy();
 

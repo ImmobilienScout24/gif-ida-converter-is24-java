@@ -1,9 +1,8 @@
 package de.is24.gif.ida.converter.is24ToIda;
 
-import generated.Unit;
-
 import org.zgif.converter.sdk.ITransformContext;
 import org.zgif.converter.sdk.impl.Validator;
+import org.zgif.model.node.entity.Property;
 
 import de.immobilienscout24.rest.schema.offer.realestates._1.RealEstate;
 import de.is24.gif.ida.converter.tbd.BasicTransformer;
@@ -11,18 +10,23 @@ import de.is24.gif.ida.converter.tbd.BasicTransformer;
 /**
  * @author Martin Fluegge
  */
-public abstract class Realestate2UnitTransformer<T extends RealEstate> extends BasicTransformer<T, Unit> {
+public abstract class Realestate2PropertyTransformer<T extends RealEstate> extends BasicTransformer<T, Property> {
 
-	public Realestate2UnitTransformer() {
+	public Realestate2PropertyTransformer() {
 		// this(new RealestateValidator());
 	}
 
-	public Realestate2UnitTransformer(Validator validator) {
+	public Realestate2PropertyTransformer(Validator validator) {
 		super();
 		setValidator(validator);
 	}
 
-	protected void doTransform(RealEstate realeste, Unit unit, ITransformContext context) {
+	protected void doTransform(RealEstate realestate, Property property, ITransformContext context) {
+
+		property.setLabel(realestate.getTitle());
+
+		// property.setAddress(value);
+
 		// salesforce automatically puts this value into anbieterObjektId , too
 		// if we set field name here salesforce will break during upsert!
 		// unit.setName(realestate.getExternalId());

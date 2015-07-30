@@ -1,8 +1,7 @@
 package de.is24.gif.ida.converter.is24ToIda;
 
-import generated.Unit;
-
 import org.zgif.converter.sdk.ITransformContext;
+import org.zgif.model.node.entity.Property;
 
 import de.immobilienscout24.rest.facades.offer.realestates._1.GarageFacade;
 import de.immobilienscout24.rest.schema.offer.realestates._1.RealEstate;
@@ -12,11 +11,11 @@ import de.is24.gif.ida.converter.is24ToIda.helpers.GarageTypeHelper;
 /**
  * @author Martin Fluegge
  */
-public abstract class Garage2UnitTransformer<T extends RealEstate> extends Realestate2UnitTransformer<T> {
+public abstract class Garage2UnitTransformer<T extends RealEstate> extends Realestate2PropertyTransformer<T> {
 
 	protected GarageTypeHelper garageTypeHelper = new GarageTypeHelper();
 
-	protected void doTransform(RealEstate garage, Unit unit, ITransformContext context) {
+	protected void doTransform(RealEstate garage, Property unit, ITransformContext context) {
 
 		super.doTransform(garage, unit, context);
 

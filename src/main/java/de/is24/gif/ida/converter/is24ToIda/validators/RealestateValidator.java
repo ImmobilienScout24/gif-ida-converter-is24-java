@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.zgif.converter.sdk.ValidationError;
+import org.zgif.converter.sdk.impl.Validator;
 
 import de.immobilienscout24.rest.facades.offer.realestates._1.EnergyCertificateFacade;
 import de.immobilienscout24.rest.schema.common._1.BuildingEnergyRatingType;

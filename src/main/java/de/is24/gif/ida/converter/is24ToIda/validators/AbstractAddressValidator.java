@@ -3,6 +3,7 @@ package de.is24.gif.ida.converter.is24ToIda.validators;
 import java.util.List;
 
 import org.zgif.converter.sdk.ValidationError;
+import org.zgif.converter.sdk.impl.Validator;
 
 import de.immobilienscout24.rest.schema.common._1.Address;
 

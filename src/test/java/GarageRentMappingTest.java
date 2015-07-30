@@ -1,13 +1,12 @@
-package de.is24.gif.ida.converter.examples;
 
-import generated.Unit;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.zgif.converter.sdk.MapperValidationException;
+import org.zgif.model.node.entity.Property;
 
 import de.immobilienscout24.rest.schema.offer.realestates._1.GarageRent;
-import de.is24.gif.ida.converter.is24ToIda.GarageRent2UnitTransformer;
+import de.is24.gif.ida.converter.is24ToIda.GarageRent2PropertyTransformer;
 import de.is24.gif.ida.converter.marshall.MarshallHelper;
 
 /**
@@ -23,13 +22,13 @@ public class GarageRentMappingTest {
 
 		garage.setTitle("My great garage");
 
-		GarageRent2UnitTransformer garageRent2UnitTransformer = new GarageRent2UnitTransformer();
+		GarageRent2PropertyTransformer garageRent2PropertyTransformer = new GarageRent2PropertyTransformer();
 
-		Unit unit = garageRent2UnitTransformer.transform(garage, null);
+		Property property = garageRent2PropertyTransformer.transform(garage, null);
 
-		Assert.assertEquals(garage.getTitle(), unit.getTitleOfExposee());
+		Assert.assertEquals(garage.getTitle(), property.getTitleOfExposee());
 
-		System.out.println(MarshallHelper.doMarshall(unit));
+		System.out.println(MarshallHelper.doMarshall(property));
 
 	}
 }

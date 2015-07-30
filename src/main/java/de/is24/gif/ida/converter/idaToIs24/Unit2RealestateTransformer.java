@@ -9,7 +9,7 @@ import de.immobilienscout24.rest.schema.offer.realestates._1.RealEstate;
 /**
  * @author Martin Fluegge
  */
-public abstract class Unit2RealestateTransformer<Unit, A extends RealEstate> extends BasicTransformer<Unit, A> {
+public abstract class Unit2RealestateTransformer<Property, A extends RealEstate> extends BasicTransformer<Property, A> {
 
 	public Unit2RealestateTransformer() {
 		// this(new RealestateValidator());
@@ -20,7 +20,7 @@ public abstract class Unit2RealestateTransformer<Unit, A extends RealEstate> ext
 		setValidator(validator);
 	}
 
-	protected void doTransform(Unit unit, RealEstate realestate, ITransformContext context) {
+	protected void doTransform(Property unit, RealEstate realestate, ITransformContext context) {
 		// salesforce automatically puts this value into anbieterObjektId , too
 		// if we set field name here salesforce will break during upsert!
 		// unit.setName(realestate.getExternalId());
