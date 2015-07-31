@@ -1,3 +1,4 @@
+package de.is24.gif.ida.converter.tests;
 
 import org.junit.Assert;
 import org.junit.Ignore;
