@@ -1,4 +1,5 @@
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.zgif.converter.sdk.MapperValidationException;
 import org.zgif.model.node.entity.Property;
@@ -13,6 +14,7 @@ import de.is24.gif.ida.converter.is24ToIda.GarageBuy2PropertyTransformer;
 public class GarageBuy2PropertyTest {
 
 	@Test
+	@Ignore
 	public void test() throws MapperValidationException {
 
 		GarageBuy2PropertyTransformer transformer = new GarageBuy2PropertyTransformer();
