@@ -6,6 +6,8 @@ import org.zgif.model.node.entity.Property;
 
 import de.immobilienscout24.rest.schema.offer.realestates._1.RealEstate;
 import de.is24.gif.ida.converter.tbd.BasicTransformer;
+import org.zgif.model.node.entity.Unit;
+import org.zgif.model.node.entity.Units;
 
 /**
  * @author Martin Fluegge
@@ -24,6 +26,10 @@ public abstract class Realestate2PropertyTransformer<T extends RealEstate> exten
 	protected void doTransform(RealEstate realestate, Property property, ITransformContext context) {
 
 		property.setLabel(realestate.getTitle());
+
+		Unit unit = new Unit();
+		property.setUnits(new Units());
+		property.getUnits().getUnit().add(unit);
 
 		// property.setAddress(value);
 
