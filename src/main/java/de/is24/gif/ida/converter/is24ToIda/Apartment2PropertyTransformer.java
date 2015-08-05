@@ -2,6 +2,7 @@ package de.is24.gif.ida.converter.is24ToIda;
 
 import de.immobilienscout24.rest.facades.offer.realestates._1.ApartmentFacade;
 import de.immobilienscout24.rest.facades.offer.realestates._1.GarageFacade;
+import de.immobilienscout24.rest.schema.common._1.InteriorQuality;
 import de.immobilienscout24.rest.schema.common._1.RealEstateCondition;
 import de.immobilienscout24.rest.schema.offer.realestates._1.RealEstate;
 import de.is24.gif.ida.converter.facade.DuckType;
@@ -21,7 +22,7 @@ public abstract class Apartment2PropertyTransformer <T extends RealEstate> exten
 
     private Map<de.immobilienscout24.rest.schema.common._1.ApartmentType,ApartmentType> apartmentTypeMapping = new HashMap<de.immobilienscout24.rest.schema.common._1.ApartmentType, ApartmentType>();
     private Map<de.immobilienscout24.rest.schema.common._1.RealEstateCondition,ObjectCondition> conditionMapping = new HashMap<de.immobilienscout24.rest.schema.common._1.RealEstateCondition, ObjectCondition>();
-
+    private Map<InteriorQuality, org.zgif.model.datatype.enumeration.InteriorQuality> interiorMapping = new HashMap<InteriorQuality, org.zgif.model.datatype.enumeration.InteriorQuality>();
 
     public Apartment2PropertyTransformer() {
         apartmentTypeMapping.put(de.immobilienscout24.rest.schema.common._1.ApartmentType.APARTMENT,ApartmentType.APARTMENT);
@@ -47,12 +48,18 @@ public abstract class Apartment2PropertyTransformer <T extends RealEstate> exten
         conditionMapping.put(RealEstateCondition.RIPE_FOR_DEMOLITION,ObjectCondition.IN_NEED_OF_REPAIR);
         conditionMapping.put(RealEstateCondition.FULLY_RENOVATED,ObjectCondition.NEW);
         conditionMapping.put(RealEstateCondition.WELL_KEPT,ObjectCondition.NEW);
+
+        //interiorMapping.put(InteriorQuality.NO_INFORMATION, NULL??);
+        interiorMapping.put(InteriorQuality.LUXURY, org.zgif.model.datatype.enumeration.InteriorQuality.LUXURY);
+        interiorMapping.put(InteriorQuality.NORMAL, org.zgif.model.datatype.enumeration.InteriorQuality.NORMAL);
+        interiorMapping.put(InteriorQuality.SIMPLE, org.zgif.model.datatype.enumeration.InteriorQuality.SIMPLE);
+        interiorMapping.put(InteriorQuality.SOPHISTICATED, org.zgif.model.datatype.enumeration.InteriorQuality.SOPHISTICATED);
     }
 
-    protected void doTransform(RealEstate garage, Property property, ITransformContext context) {
+    protected void doTransform(RealEstate apartment, Property property, ITransformContext context) {
 
-        super.doTransform(garage, property, context);
-        ApartmentFacade facade = DuckType.coerce(garage).to(ApartmentFacade.class);
+        super.doTransform(apartment, property, context);
+        ApartmentFacade facade = DuckType.coerce(apartment).to(ApartmentFacade.class);
 
         de.immobilienscout24.rest.schema.common._1.ApartmentType apartmentType = facade.getApartmentType();
 
@@ -64,5 +71,9 @@ public abstract class Apartment2PropertyTransformer <T extends RealEstate> exten
 //TODO        facade.getCellar()  //?
         ObjectCondition objectCondition = conditionMapping.get(facade.getCondition());
         property.setCondition(objectCondition);
+        //facade.get
+        org.zgif.model.datatype.enumeration.InteriorQuality interiorQuality = interiorMapping.get(facade.getInteriorQuality());
+        property.setInteriorQuality(interiorQuality);
+
     }
 }
